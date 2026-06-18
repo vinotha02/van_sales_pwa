@@ -48,7 +48,18 @@ if (fs.existsSync(tempDbPath)) {
   }
 }
 
-fs.writeFileSync(tempDbPath, JSON.stringify(combinedData, null, 2));
+//fs.writeFileSync(tempDbPath, JSON.stringify(combinedData, null, 2));
+
+console.log("DATA DIR:", dataDir);
+console.log("EXISTS:", fs.existsSync(dataDir));
+console.log("VanInventory count:", combinedData.VanInventory?.length);
+
+try {
+  fs.writeFileSync(tempDbPath, JSON.stringify(combinedData, null, 2));
+  console.log("combined-db created");
+} catch (err) {
+  console.error("WRITE ERROR:", err);
+}
 
 const router = jsonServer.router(tempDbPath);
 
