@@ -1,0 +1,76 @@
+{
+  "Invoices": [
+    {
+      "DocEntry": 300001,
+      "DocNum": "INV-2026-00001",
+      "CardCode": "C80092",
+      "CardName": "Carrefour UAE Logistics",
+      "DocDate": "2026-06-03",
+      "DocDueDate": "2026-06-03",
+      "TaxDate": "2026-06-03",
+      "DocTotal": 472.50,
+      "VatSum": 22.50,
+      "DocCurrency": "AED",
+      "Comments": "Created from Van Sales Cockpit",
+      "PaymentMethod": "Cash",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "WHT-ATTA-10K",
+          "ItemDescription": "Chakki Fresh Atta 10kg",
+          "Quantity": 10,
+          "UnitPrice": 30.0,
+          "TaxCode": "VAT5",
+          "LineTotal": 300.0,
+          "WarehouseCode": "WH-VAN-01"
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "WHT-FLOUR-1K",
+          "ItemDescription": "Whole Wheat Flour 1kg",
+          "Quantity": 30,
+          "UnitPrice": 5.0,
+          "TaxCode": "VAT5",
+          "LineTotal": 150.0,
+          "WarehouseCode": "WH-VAN-01"
+        }
+      ]
+    },
+    {
+      "DocEntry": 300002,
+      "DocNum": "INV-2026-00002",
+      "CardCode": "C1042",
+      "CardName": "Emirates Engineering Center",
+      "DocDate": "2026-06-04",
+      "DocDueDate": "2026-06-04",
+      "TaxDate": "2026-06-04",
+      "DocTotal": 204.75,
+      "VatSum": 9.75,
+      "DocCurrency": "AED",
+      "Comments": "Van sales wheat products",
+      "PaymentMethod": "Card",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "WHT-ATTA-5K",
+          "ItemDescription": "Chakki Fresh Atta 5kg",
+          "Quantity": 10,
+          "UnitPrice": 18.0,
+          "TaxCode": "VAT5",
+          "LineTotal": 180.0,
+          "WarehouseCode": "WH-VAN-01"
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "WHT-MAIDA-1K",
+          "ItemDescription": "Wheat Maida 1kg",
+          "Quantity": 3,
+          "UnitPrice": 5.0,
+          "TaxCode": "VAT5",
+          "LineTotal": 15.0,
+          "WarehouseCode": "WH-VAN-01"
+        }
+      ]
+    }
+  ]
+}

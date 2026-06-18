@@ -1,0 +1,347 @@
+{
+  "wmsPurchaseOrders": [
+    {
+      "id": "po-101",
+      "docEntry": 450122,
+      "docNum": "PO-2026-001",
+      "supplierCode": "S10002",
+      "supplierName": "Gulf Food Logistics Ltd",
+      "docDate": "2026-05-10",
+      "deliveryDate": "2026-05-20",
+      "status": "Open",
+      "totalWeightKg": 450,
+      "items": [
+        {
+          "itemCode": "ITEM-001",
+          "itemName": "Organic Whole Milk 1L",
+          "expectedQty": 150,
+          "actualQty": 0,
+          "binLocation": "BIN-A1-02-01",
+          "batchNumber": "BT-MLK-9922",
+          "expiryDate": "2026-06-15",
+          "qcStatus": "Pass",
+          "unitOfMeasure": "Carton"
+        },
+        {
+          "itemCode": "ITEM-002",
+          "itemName": "Feta Cheese 250g",
+          "expectedQty": 80,
+          "actualQty": 0,
+          "binLocation": "BIN-C2-01-04",
+          "batchNumber": "BT-FET-4411",
+          "expiryDate": "2026-08-30",
+          "qcStatus": "Pass",
+          "unitOfMeasure": "Box"
+        },
+        {
+          "itemCode": "ITEM-003",
+          "itemName": "Greek Yogurt 1kg",
+          "expectedQty": 120,
+          "actualQty": 0,
+          "binLocation": "BIN-C2-01-08",
+          "batchNumber": "BT-GKY-8833",
+          "expiryDate": "2026-07-10",
+          "qcStatus": "Pass",
+          "unitOfMeasure": "Tray"
+        }
+      ]
+    },
+    {
+      "id": "po-102",
+      "docEntry": 450123,
+      "docNum": "PO-2026-002",
+      "supplierCode": "S10009",
+      "supplierName": "Almarai Dairy Corp",
+      "docDate": "2026-05-12",
+      "deliveryDate": "2026-05-22",
+      "status": "Open",
+      "totalWeightKg": 380,
+      "items": [
+        {
+          "itemCode": "ITEM-004",
+          "itemName": "Fresh Labneh 500g",
+          "expectedQty": 200,
+          "actualQty": 0,
+          "binLocation": "BIN-C2-02-12",
+          "batchNumber": "BT-LBN-7711",
+          "expiryDate": "2026-06-25",
+          "qcStatus": "Pass",
+          "unitOfMeasure": "Tray"
+        },
+        {
+          "itemCode": "ITEM-005",
+          "itemName": "Salted Butter 200g",
+          "expectedQty": 100,
+          "actualQty": 0,
+          "binLocation": "BIN-C2-01-14",
+          "batchNumber": "BT-BUT-2299",
+          "expiryDate": "2026-10-05",
+          "qcStatus": "Pass",
+          "unitOfMeasure": "Box"
+        }
+      ]
+    },
+    {
+      "id": "po-103",
+      "docEntry": 450124,
+      "docNum": "PO-2026-003",
+      "supplierCode": "S20045",
+      "supplierName": "Oasis Beverages Ltd",
+      "docDate": "2026-05-15",
+      "deliveryDate": "2026-05-25",
+      "status": "Open",
+      "totalWeightKg": 950,
+      "items": [
+        {
+          "itemCode": "ITEM-006",
+          "itemName": "Still Mineral Water 500ml",
+          "expectedQty": 500,
+          "actualQty": 0,
+          "binLocation": "BIN-A1-03-12",
+          "batchNumber": "BT-WAT-1100",
+          "expiryDate": "2027-05-15",
+          "qcStatus": "Pass",
+          "unitOfMeasure": "Pallet"
+        },
+        {
+          "itemCode": "ITEM-007",
+          "itemName": "Sparkling Water 330ml",
+          "expectedQty": 300,
+          "actualQty": 0,
+          "binLocation": "BIN-A1-03-14",
+          "batchNumber": "BT-WAT-1122",
+          "expiryDate": "2027-04-30",
+          "qcStatus": "Pass",
+          "unitOfMeasure": "Pallet"
+        },
+        {
+          "itemCode": "ITEM-008",
+          "itemName": "Apple Juice Premium 1L",
+          "expectedQty": 150,
+          "actualQty": 0,
+          "binLocation": "BIN-C2-02-04",
+          "batchNumber": "BT-APJ-6655",
+          "expiryDate": "2026-11-20",
+          "qcStatus": "Pass",
+          "unitOfMeasure": "Carton"
+        }
+      ]
+    }
+  ],
+  "wmsInventoryTransfers": [
+    {
+      "id": "it-201",
+      "DocEntry": 55001,
+      "DocNum": 55001,
+      "FromWarehouse": "WHS-MAIN",
+      "ToWarehouse": "WHS-DXB-COULD",
+      "U_RequestedBy": "Ahmed Al Maktoum",
+      "DocDate": "2026-05-18",
+      "U_WmsStatus": "Approved",
+      "StockTransferLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "ITEM-001",
+          "ItemDescription": "Organic Whole Milk 1L",
+          "Quantity": 50,
+          "WarehouseCode": "WHS-DXB-COULD",
+          "FromWarehouseCode": "WHS-MAIN",
+          "StockTransferLinesBinAllocations": [
+            { "BinAbsEntry": 1, "Quantity": 50, "BinActionType": 2 },
+            { "BinAbsEntry": 4, "Quantity": 50, "BinActionType": 1 }
+          ]
+        },
+        {
+          "LineNum": 1,
+          "ItemCode": "ITEM-004",
+          "ItemDescription": "Fresh Labneh 500g",
+          "Quantity": 30,
+          "WarehouseCode": "WHS-DXB-COULD",
+          "FromWarehouseCode": "WHS-MAIN",
+          "StockTransferLinesBinAllocations": [
+            { "BinAbsEntry": 8, "Quantity": 30, "BinActionType": 2 },
+            { "BinAbsEntry": 5, "Quantity": 30, "BinActionType": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "it-202",
+      "DocEntry": 55002,
+      "DocNum": 55002,
+      "FromWarehouse": "WHS-MAIN",
+      "ToWarehouse": "WHS-SHJ-RETAIL",
+      "U_RequestedBy": "Sarah Connor",
+      "DocDate": "2026-05-19",
+      "U_WmsStatus": "Draft",
+      "StockTransferLines": [
+        {
+          "LineNum": 0,
+          "ItemCode": "ITEM-006",
+          "ItemDescription": "Still Mineral Water 500ml",
+          "Quantity": 200,
+          "WarehouseCode": "WHS-SHJ-RETAIL",
+          "FromWarehouseCode": "WHS-MAIN",
+          "StockTransferLinesBinAllocations": [
+            { "BinAbsEntry": 2, "Quantity": 200, "BinActionType": 2 },
+            { "BinAbsEntry": 1, "Quantity": 200, "BinActionType": 1 }
+          ]
+        }
+      ]
+    }
+  ],
+  "wmsCycleCounts": [
+    {
+      "id": "cc-301",
+      "sessionNum": "CC-2026-05-A",
+      "zone": "Chilled Storage A",
+      "createdDate": "2026-05-18",
+      "assignedTo": "Supervisor SV",
+      "status": "In Progress",
+      "items": [
+        {
+          "itemCode": "ITEM-001",
+          "itemName": "Organic Whole Milk 1L",
+          "expectedQty": 150,
+          "actualQty": 148,
+          "variance": -2,
+          "status": "Recount Pending"
+        },
+        {
+          "itemCode": "ITEM-002",
+          "itemName": "Feta Cheese 250g",
+          "expectedQty": 80,
+          "actualQty": 80,
+          "variance": 0,
+          "status": "Verified"
+        }
+      ]
+    },
+    {
+      "id": "cc-302",
+      "sessionNum": "CC-2026-05-B",
+      "zone": "Bulk Storage",
+      "createdDate": "2026-05-19",
+      "assignedTo": "Mohammed Khan",
+      "status": "Completed",
+      "items": [
+        {
+          "itemCode": "ITEM-006",
+          "itemName": "Still Mineral Water 500ml",
+          "expectedQty": 500,
+          "actualQty": 505,
+          "variance": 5,
+          "status": "Approved"
+        }
+      ]
+    }
+  ],
+  "wmsBins": [
+    { "AbsEntry": 1, "code": "BIN-A1-02-01", "zone": "Bulk Storage", "tempZone": "Dry", "capacityPercent": 75, "itemsCount": 240, "shelf": "Row A - Shelf 2" },
+    { "AbsEntry": 2, "code": "BIN-A1-03-12", "zone": "Receiving Dock A", "tempZone": "Dry", "capacityPercent": 15, "itemsCount": 500, "shelf": "Row A - Shelf 3" },
+    { "AbsEntry": 3, "code": "BIN-A1-03-14", "zone": "Receiving Dock A", "tempZone": "Dry", "capacityPercent": 40, "itemsCount": 300, "shelf": "Row A - Shelf 3" },
+    { "AbsEntry": 4, "code": "BIN-C2-01-04", "zone": "Chilled Storage A", "tempZone": "Cold (4°C)", "capacityPercent": 92, "itemsCount": 130, "shelf": "Cold Row C - Shelf 1" },
+    { "AbsEntry": 5, "code": "BIN-C2-01-08", "zone": "Chilled Storage A", "tempZone": "Cold (4°C)", "capacityPercent": 60, "itemsCount": 120, "shelf": "Cold Row C - Shelf 1" },
+    { "AbsEntry": 6, "code": "BIN-C2-01-14", "zone": "Chilled Storage A", "tempZone": "Cold (4°C)", "capacityPercent": 45, "itemsCount": 100, "shelf": "Cold Row C - Shelf 1" },
+    { "AbsEntry": 7, "code": "BIN-C2-02-04", "zone": "Chilled Storage B", "tempZone": "Cold (4°C)", "capacityPercent": 80, "itemsCount": 150, "shelf": "Cold Row C - Shelf 2" },
+    { "AbsEntry": 8, "code": "BIN-C2-02-12", "zone": "Chilled Storage B", "tempZone": "Cold (4°C)", "capacityPercent": 35, "itemsCount": 200, "shelf": "Cold Row C - Shelf 2" }
+  ],
+  "wmsBatchExpiry": [
+    {
+      "itemCode": "STEEL-COIL-A36-85",
+      "itemName": "Hot Rolled Steel Winding Coil 8.5mm",
+      "batchNumber": "B-COIL-51092",
+      "storageDate": "2025-10-15",
+      "ageDays": 221,
+      "status": "Critical (>180 Days)",
+      "binLocation": "YARD-BAY-2-ROW-2-L1"
+    },
+    {
+      "itemCode": "STEEL-COIL-SS400-42",
+      "itemName": "Aluminium Alloy Sheet 4.2mm",
+      "batchNumber": "B-COIL-29381",
+      "storageDate": "2026-04-10",
+      "ageDays": 44,
+      "status": "Moderate (30-90 Days)",
+      "binLocation": "YARD-BAY-2-ROW-2-L2"
+    },
+    {
+      "itemCode": "STEEL-COIL-S355-100",
+      "itemName": "Structural Steel H-Beam 10.0mm",
+      "batchNumber": "B-COIL-88291",
+      "storageDate": "2025-11-20",
+      "ageDays": 185,
+      "status": "Critical (>180 Days)",
+      "binLocation": "YARD-BAY-4-ROW-1-L1"
+    },
+    {
+      "itemCode": "STEEL-COIL-DX51D-18",
+      "itemName": "Galvanized Steel Winding Coil 1.8mm",
+      "batchNumber": "B-COIL-10948",
+      "storageDate": "2026-05-12",
+      "ageDays": 12,
+      "status": "Recent (<30 Days)",
+      "binLocation": "YARD-BAY-4-ROW-1-L2"
+    },
+    {
+      "itemCode": "STEEL-COIL-A36-50",
+      "itemName": "Hot Rolled Steel Winding Coil 5.0mm",
+      "batchNumber": "B-COIL-67291",
+      "storageDate": "2026-02-28",
+      "ageDays": 85,
+      "status": "Moderate (30-90 Days)",
+      "binLocation": "YARD-BAY-3-ROW-4-L1"
+    },
+    {
+      "itemCode": "STEEL-COIL-SS400-36",
+      "itemName": "Aluminium Alloy Sheet 3.6mm",
+      "batchNumber": "B-COIL-19402",
+      "storageDate": "2026-05-18",
+      "ageDays": 6,
+      "status": "Recent (<30 Days)",
+      "binLocation": "YARD-BAY-3-ROW-4-L2"
+    },
+    {
+      "itemCode": "STEEL-COIL-A36-90",
+      "itemName": "Hot Rolled Steel Winding Coil 9.0mm",
+      "batchNumber": "B-COIL-77492",
+      "storageDate": "2025-08-05",
+      "ageDays": 292,
+      "status": "Critical (>180 Days)",
+      "binLocation": "YARD-BAY-1-ROW-3-L1"
+    },
+    {
+      "itemCode": "STEEL-COIL-DX51-30",
+      "itemName": "Galvanized Steel Winding Coil 3.0mm",
+      "batchNumber": "B-COIL-82911",
+      "storageDate": "2026-01-20",
+      "ageDays": 124,
+      "status": "Aged (90-180 Days)",
+      "binLocation": "YARD-BAY-5-ROW-5-L2"
+    }
+  ],
+  "wmsThreePLBilling": [
+    {
+      "id": "bil-401",
+      "invoiceNo": "INV-3PL-2026-05",
+      "customerCode": "C80092",
+      "customerName": "Carrefour UAE Logistics",
+      "billingCycle": "2026-05",
+      "storageCharge": 14500.00,
+      "handlingCharge": 3200.00,
+      "totalAmount": 17700.00,
+      "status": "Pending Verification"
+    },
+    {
+      "id": "bil-402",
+      "invoiceNo": "INV-3PL-2026-04",
+      "customerCode": "C80092",
+      "customerName": "Carrefour UAE Logistics",
+      "billingCycle": "2026-04",
+      "storageCharge": 12000.00,
+      "handlingCharge": 2800.00,
+      "totalAmount": 14800.00,
+      "status": "Invoiced"
+    }
+  ]
+}

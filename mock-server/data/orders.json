@@ -1,0 +1,5229 @@
+{
+  "orders": [
+    {
+      "DocNum": 1042,
+      "CardName": "SRV Yhtiöt",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 14680,
+      "VolumeM3": 9.4596,
+      "City": "Fujairah",
+      "Street": "Fujairah Free Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 6,
+          "WeightKg": 780,
+          "VolumeM3": 0.3102
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 13,
+          "WeightKg": 2080,
+          "VolumeM3": 1.7024
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 4,
+          "WeightKg": 3880,
+          "VolumeM3": 2.7678
+        },
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 3,
+          "WeightKg": 3600,
+          "VolumeM3": 1.3161
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 11,
+          "WeightKg": 1430,
+          "VolumeM3": 1.0316
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 3,
+          "WeightKg": 2910,
+          "VolumeM3": 2.3315
+        }
+      ]
+    },
+    {
+      "DocNum": 1043,
+      "CardName": "McDermott International",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 14525,
+      "VolumeM3": 7.3909,
+      "City": "Fujairah",
+      "Street": "Fujairah Free Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 3,
+          "WeightKg": 450,
+          "VolumeM3": 0.374
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 14,
+          "WeightKg": 3360,
+          "VolumeM3": 2.002
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 5,
+          "WeightKg": 525,
+          "VolumeM3": 0.2366
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 8,
+          "WeightKg": 960,
+          "VolumeM3": 0.3567
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 4,
+          "WeightKg": 1280,
+          "VolumeM3": 0.7056
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 12,
+          "WeightKg": 2160,
+          "VolumeM3": 1.048
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 11,
+          "WeightKg": 1540,
+          "VolumeM3": 0.5966
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 9,
+          "WeightKg": 2790,
+          "VolumeM3": 0.9909
+        },
+        {
+          "ItemCode": "SCF-PLANK-ALU-4M",
+          "ItemName": "Aluminum Scaffold Plank 4.0m",
+          "Quantity": 73,
+          "WeightKg": 1460,
+          "VolumeM3": 1.0805
+        }
+      ]
+    },
+    {
+      "DocNum": 1044,
+      "CardName": "Union Properties",
+      "WarehouseCode": "WH-AUH-01",
+      "WeightKg": 15113,
+      "VolumeM3": 9.5188,
+      "City": "Abu Dhabi",
+      "Street": "Mussafah Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 7,
+          "WeightKg": 840,
+          "VolumeM3": 0.8313
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 6,
+          "WeightKg": 1080,
+          "VolumeM3": 0.9791
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 7,
+          "WeightKg": 2240,
+          "VolumeM3": 1.3829
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 8,
+          "WeightKg": 1440,
+          "VolumeM3": 0.596
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 6,
+          "WeightKg": 1080,
+          "VolumeM3": 0.8307
+        },
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 13,
+          "WeightKg": 1885,
+          "VolumeM3": 1.4206
+        },
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 13,
+          "WeightKg": 4030,
+          "VolumeM3": 1.6918
+        },
+        {
+          "ItemCode": "SCF-KWIK-STD-3M",
+          "ItemName": "Kwikstage Standard 3.0m",
+          "Quantity": 30,
+          "WeightKg": 780,
+          "VolumeM3": 0.4864
+        },
+        {
+          "ItemCode": "SCF-LADDER-5M",
+          "ItemName": "Scaffold Ladder 5.0m",
+          "Quantity": 79,
+          "WeightKg": 1738,
+          "VolumeM3": 1.3
+        }
+      ]
+    },
+    {
+      "DocNum": 1045,
+      "CardName": "Dubai Contracting Company",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14490,
+      "VolumeM3": 9.7975,
+      "City": "Ajman",
+      "Street": "Al Nuaimiya",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 3,
+          "WeightKg": 390,
+          "VolumeM3": 0.3368
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 7,
+          "WeightKg": 2240,
+          "VolumeM3": 0.7758
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 12,
+          "WeightKg": 3720,
+          "VolumeM3": 3.3981
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 6,
+          "WeightKg": 1320,
+          "VolumeM3": 1.0016
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 13,
+          "WeightKg": 4160,
+          "VolumeM3": 2.5842
+        },
+        {
+          "ItemCode": "SCF-TUBE-48MM-6M",
+          "ItemName": "Galvanized Scaffold Tube 48.3mm x 6m",
+          "Quantity": 28,
+          "WeightKg": 784,
+          "VolumeM3": 0.3705
+        },
+        {
+          "ItemCode": "SCF-TUBE-48MM-6M",
+          "ItemName": "Galvanized Scaffold Tube 48.3mm x 6m",
+          "Quantity": 67,
+          "WeightKg": 1876,
+          "VolumeM3": 1.3305
+        }
+      ]
+    },
+    {
+      "DocNum": 1046,
+      "CardName": "Six Construct",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 13724,
+      "VolumeM3": 5.1674,
+      "City": "Ajman",
+      "Street": "Emirates City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 10,
+          "WeightKg": 7300,
+          "VolumeM3": 2.6545
+        },
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 4,
+          "WeightKg": 4800,
+          "VolumeM3": 1.9535
+        },
+        {
+          "ItemCode": "SCF-PROP-ACROW-5M",
+          "ItemName": "Acrow Prop Size 3 (3.0-4.9m)",
+          "Quantity": 58,
+          "WeightKg": 1624,
+          "VolumeM3": 0.5594
+        }
+      ]
+    },
+    {
+      "DocNum": 1047,
+      "CardName": "Consolidated Contractors Company",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 14930,
+      "VolumeM3": 7.8695,
+      "City": "Ras Al Khaimah",
+      "Street": "Saif Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 3,
+          "WeightKg": 540,
+          "VolumeM3": 0.4191
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 13,
+          "WeightKg": 2080,
+          "VolumeM3": 1.9123
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 7,
+          "WeightKg": 840,
+          "VolumeM3": 0.7039
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 4,
+          "WeightKg": 880,
+          "VolumeM3": 0.4448
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 10,
+          "WeightKg": 2400,
+          "VolumeM3": 0.7255
+        },
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 14,
+          "WeightKg": 3080,
+          "VolumeM3": 1.4919
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 7,
+          "WeightKg": 5110,
+          "VolumeM3": 2.172
+        }
+      ]
+    },
+    {
+      "DocNum": 1048,
+      "CardName": "Lindab International",
+      "WarehouseCode": "WH-DXB-03",
+      "WeightKg": 15715,
+      "VolumeM3": 11.3786,
+      "City": "Dubai",
+      "Street": "Jebel Ali Industrial",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 6,
+          "WeightKg": 1860,
+          "VolumeM3": 0.757
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 5,
+          "WeightKg": 600,
+          "VolumeM3": 0.4065
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 11,
+          "WeightKg": 1320,
+          "VolumeM3": 1.2447
+        },
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 8,
+          "WeightKg": 2480,
+          "VolumeM3": 1.5922
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 8,
+          "WeightKg": 1280,
+          "VolumeM3": 1.1713
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 15,
+          "WeightKg": 2700,
+          "VolumeM3": 1.3912
+        },
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 3,
+          "WeightKg": 3600,
+          "VolumeM3": 3.2926
+        },
+        {
+          "ItemCode": "STL-CHS-90MM",
+          "ItemName": "Circular Hollow Section 88.9mm",
+          "Quantity": 25,
+          "WeightKg": 1875,
+          "VolumeM3": 1.5231
+        }
+      ]
+    },
+    {
+      "DocNum": 1049,
+      "CardName": "Wade Adams Contracting",
+      "WarehouseCode": "WH-DXB-03",
+      "WeightKg": 16000,
+      "VolumeM3": 10.7599,
+      "City": "Dubai",
+      "Street": "Al Quoz Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 5,
+          "WeightKg": 4850,
+          "VolumeM3": 2.3549
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 12,
+          "WeightKg": 2160,
+          "VolumeM3": 1.2878
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 11,
+          "WeightKg": 3960,
+          "VolumeM3": 3.2816
+        },
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 6,
+          "WeightKg": 870,
+          "VolumeM3": 0.6952
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 13,
+          "WeightKg": 4160,
+          "VolumeM3": 3.1404
+        }
+      ]
+    },
+    {
+      "DocNum": 1050,
+      "CardName": "Strabag International",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 14400,
+      "VolumeM3": 4.532,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Hamra Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 8,
+          "WeightKg": 14400,
+          "VolumeM3": 4.532
+        }
+      ]
+    },
+    {
+      "DocNum": 1051,
+      "CardName": "Six Construct",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 13176,
+      "VolumeM3": 9.8842,
+      "City": "Ajman",
+      "Street": "Al Nuaimiya",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 7,
+          "WeightKg": 12600,
+          "VolumeM3": 9.3463
+        },
+        {
+          "ItemCode": "SCF-RNG-STD-3M",
+          "ItemName": "Ringlock Standard 3.0m",
+          "Quantity": 24,
+          "WeightKg": 576,
+          "VolumeM3": 0.5379
+        }
+      ]
+    },
+    {
+      "DocNum": 1052,
+      "CardName": "Al Fara'a General Contracting",
+      "WarehouseCode": "WH-AUH-01",
+      "WeightKg": 15675,
+      "VolumeM3": 8.9182,
+      "City": "Abu Dhabi",
+      "Street": "Khalifa Industrial Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 11,
+          "WeightKg": 3960,
+          "VolumeM3": 1.5548
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 12,
+          "WeightKg": 3720,
+          "VolumeM3": 2.6165
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 15,
+          "WeightKg": 1950,
+          "VolumeM3": 1.2306
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 6,
+          "WeightKg": 2880,
+          "VolumeM3": 1.0542
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 9,
+          "WeightKg": 1125,
+          "VolumeM3": 0.6165
+        },
+        {
+          "ItemCode": "SCF-FRAME-VSHORE",
+          "ItemName": "V-Shore Frame Heavy Duty",
+          "Quantity": 24,
+          "WeightKg": 2040,
+          "VolumeM3": 1.8456
+        }
+      ]
+    },
+    {
+      "DocNum": 1053,
+      "CardName": "Vinci Construction",
+      "WarehouseCode": "WH-DXB-03",
+      "WeightKg": 13456,
+      "VolumeM3": 10.1888,
+      "City": "Dubai",
+      "Street": "Dubai Investment Park",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 9,
+          "WeightKg": 10800,
+          "VolumeM3": 8.7453
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 4,
+          "WeightKg": 600,
+          "VolumeM3": 0.2844
+        },
+        {
+          "ItemCode": "SCF-FRM-BRD-2.4M",
+          "ItemName": "Scaffold Board 2.4m x 225mm",
+          "Quantity": 54,
+          "WeightKg": 1188,
+          "VolumeM3": 0.7295
+        },
+        {
+          "ItemCode": "SCF-PROP-ACROW-5M",
+          "ItemName": "Acrow Prop Size 3 (3.0-4.9m)",
+          "Quantity": 31,
+          "WeightKg": 868,
+          "VolumeM3": 0.4296
+        }
+      ]
+    },
+    {
+      "DocNum": 1054,
+      "CardName": "Veidekke ASA",
+      "WarehouseCode": "WH-AJM-01",
+      "WeightKg": 15416,
+      "VolumeM3": 13.0165,
+      "City": "Sharjah",
+      "Street": "Al Saja'a Industrial",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 3,
+          "WeightKg": 480,
+          "VolumeM3": 0.3631
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 3,
+          "WeightKg": 2910,
+          "VolumeM3": 2.8468
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 15,
+          "WeightKg": 4650,
+          "VolumeM3": 4.1575
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 9,
+          "WeightKg": 2160,
+          "VolumeM3": 1.3823
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 9,
+          "WeightKg": 3240,
+          "VolumeM3": 3.0187
+        },
+        {
+          "ItemCode": "STL-FLT-75X12",
+          "ItemName": "Flat Steel Bar 75x12mm",
+          "Quantity": 44,
+          "WeightKg": 968,
+          "VolumeM3": 0.2919
+        },
+        {
+          "ItemCode": "SCF-LADDER-BEAM",
+          "ItemName": "Ladder Beam 3.0m",
+          "Quantity": 36,
+          "WeightKg": 1008,
+          "VolumeM3": 0.9562
+        }
+      ]
+    },
+    {
+      "DocNum": 1055,
+      "CardName": "NCC AB",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 16684,
+      "VolumeM3": 12.7128,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Ghail Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 14,
+          "WeightKg": 1750,
+          "VolumeM3": 1.1212
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 7,
+          "WeightKg": 2520,
+          "VolumeM3": 1.14
+        },
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 6,
+          "WeightKg": 7200,
+          "VolumeM3": 5.8681
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 3,
+          "WeightKg": 660,
+          "VolumeM3": 0.2212
+        },
+        {
+          "ItemCode": "STL-COL-UC-203",
+          "ItemName": "Universal Column 203x203x46",
+          "Quantity": 5,
+          "WeightKg": 2300,
+          "VolumeM3": 2.1702
+        },
+        {
+          "ItemCode": "STL-BAR-ROUND-60",
+          "ItemName": "Round Steel Bar 60mm",
+          "Quantity": 23,
+          "WeightKg": 2254,
+          "VolumeM3": 2.1921
+        }
+      ]
+    },
+    {
+      "DocNum": 1056,
+      "CardName": "El Seif Engineering Contracting",
+      "WarehouseCode": "WH-DXB-01",
+      "WeightKg": 13480,
+      "VolumeM3": 9.5742,
+      "City": "Dubai",
+      "Street": "Sheikh Zayed Road",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 6,
+          "WeightKg": 750,
+          "VolumeM3": 0.437
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 12,
+          "WeightKg": 2640,
+          "VolumeM3": 1.247
+        },
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 3,
+          "WeightKg": 930,
+          "VolumeM3": 0.6822
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 13,
+          "WeightKg": 6240,
+          "VolumeM3": 4.4215
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 4,
+          "WeightKg": 2920,
+          "VolumeM3": 2.7865
+        }
+      ]
+    },
+    {
+      "DocNum": 1057,
+      "CardName": "Arabian Construction Company",
+      "WarehouseCode": "WH-AJM-02",
+      "WeightKg": 15198,
+      "VolumeM3": 11.0819,
+      "City": "Sharjah",
+      "Street": "Industrial Area 1",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 13,
+          "WeightKg": 1560,
+          "VolumeM3": 1.1729
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 8,
+          "WeightKg": 1120,
+          "VolumeM3": 1.0644
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 4,
+          "WeightKg": 1240,
+          "VolumeM3": 0.3801
+        },
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 12,
+          "WeightKg": 3720,
+          "VolumeM3": 3.7098
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 11,
+          "WeightKg": 3960,
+          "VolumeM3": 1.9231
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 8,
+          "WeightKg": 2480,
+          "VolumeM3": 2.2732
+        },
+        {
+          "ItemCode": "SCF-KWIK-STD-3M",
+          "ItemName": "Kwikstage Standard 3.0m",
+          "Quantity": 43,
+          "WeightKg": 1118,
+          "VolumeM3": 0.5584
+        }
+      ]
+    },
+    {
+      "DocNum": 1058,
+      "CardName": "Veidekke ASA",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 15635,
+      "VolumeM3": 11.6748,
+      "City": "Ras Al Khaimah",
+      "Street": "Saif Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 13,
+          "WeightKg": 11050,
+          "VolumeM3": 9.6353
+        },
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 13,
+          "WeightKg": 1820,
+          "VolumeM3": 0.678
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 5,
+          "WeightKg": 1100,
+          "VolumeM3": 0.5336
+        },
+        {
+          "ItemCode": "STL-BAR-ROUND-40",
+          "ItemName": "Round Steel Bar 40mm",
+          "Quantity": 37,
+          "WeightKg": 1665,
+          "VolumeM3": 0.8279
+        }
+      ]
+    },
+    {
+      "DocNum": 1059,
+      "CardName": "Grupo ACS",
+      "WarehouseCode": "WH-AJM-02",
+      "WeightKg": 14890,
+      "VolumeM3": 6.2162,
+      "City": "Sharjah",
+      "Street": "Industrial Area 1",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 10,
+          "WeightKg": 7300,
+          "VolumeM3": 3.4732
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 3,
+          "WeightKg": 930,
+          "VolumeM3": 0.3391
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 7,
+          "WeightKg": 3360,
+          "VolumeM3": 1.1117
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 15,
+          "WeightKg": 3300,
+          "VolumeM3": 1.2922
+        }
+      ]
+    },
+    {
+      "DocNum": 1060,
+      "CardName": "Khatib & Alami",
+      "WarehouseCode": "WH-AUH-01",
+      "WeightKg": 15310,
+      "VolumeM3": 11.0785,
+      "City": "Abu Dhabi",
+      "Street": "Zayed City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 3,
+          "WeightKg": 2910,
+          "VolumeM3": 1.1009
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 14,
+          "WeightKg": 3080,
+          "VolumeM3": 2.8729
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 3,
+          "WeightKg": 2910,
+          "VolumeM3": 2.5731
+        },
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 11,
+          "WeightKg": 2750,
+          "VolumeM3": 1.1101
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 3,
+          "WeightKg": 360,
+          "VolumeM3": 0.1857
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 15,
+          "WeightKg": 3300,
+          "VolumeM3": 3.2358
+        }
+      ]
+    },
+    {
+      "DocNum": 1061,
+      "CardName": "Grupo ACS",
+      "WarehouseCode": "WH-DXB-02",
+      "WeightKg": 14392,
+      "VolumeM3": 12.9959,
+      "City": "Dubai",
+      "Street": "Al Quoz Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 4,
+          "WeightKg": 500,
+          "VolumeM3": 0.2738
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 9,
+          "WeightKg": 8730,
+          "VolumeM3": 8.5701
+        },
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 5,
+          "WeightKg": 1100,
+          "VolumeM3": 1.0428
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 5,
+          "WeightKg": 650,
+          "VolumeM3": 0.6392
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 5,
+          "WeightKg": 750,
+          "VolumeM3": 0.6877
+        },
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 2,
+          "WeightKg": 1700,
+          "VolumeM3": 1.3865
+        },
+        {
+          "ItemCode": "SCF-KWIK-STD-3M",
+          "ItemName": "Kwikstage Standard 3.0m",
+          "Quantity": 37,
+          "WeightKg": 962,
+          "VolumeM3": 0.3958
+        }
+      ]
+    },
+    {
+      "DocNum": 1062,
+      "CardName": "DAMAC Properties",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 14940,
+      "VolumeM3": 13.0061,
+      "City": "Fujairah",
+      "Street": "Al Hayl Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 6,
+          "WeightKg": 780,
+          "VolumeM3": 0.6799
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 8,
+          "WeightKg": 1120,
+          "VolumeM3": 0.5753
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 6,
+          "WeightKg": 900,
+          "VolumeM3": 0.4104
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 6,
+          "WeightKg": 750,
+          "VolumeM3": 0.4342
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 4,
+          "WeightKg": 420,
+          "VolumeM3": 0.4103
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 8,
+          "WeightKg": 840,
+          "VolumeM3": 0.6292
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 13,
+          "WeightKg": 4160,
+          "VolumeM3": 4.1051
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 4,
+          "WeightKg": 3880,
+          "VolumeM3": 3.715
+        },
+        {
+          "ItemCode": "STL-MES-50X50",
+          "ItemName": "Welded Wire Mesh 50x50mm",
+          "Quantity": 38,
+          "WeightKg": 2090,
+          "VolumeM3": 2.0467
+        }
+      ]
+    },
+    {
+      "DocNum": 1063,
+      "CardName": "MAG Property Development",
+      "WarehouseCode": "WH-AJM-02",
+      "WeightKg": 14884,
+      "VolumeM3": 11.6935,
+      "City": "Sharjah",
+      "Street": "Al Nahda",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 14,
+          "WeightKg": 2520,
+          "VolumeM3": 2.1433
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 12,
+          "WeightKg": 5760,
+          "VolumeM3": 5.6964
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 9,
+          "WeightKg": 1440,
+          "VolumeM3": 1.3387
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 7,
+          "WeightKg": 2520,
+          "VolumeM3": 0.8343
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 3,
+          "WeightKg": 1440,
+          "VolumeM3": 0.9561
+        },
+        {
+          "ItemCode": "SCF-FRM-BRD-3.0M",
+          "ItemName": "Scaffold Board 3.0m x 225mm",
+          "Quantity": 43,
+          "WeightKg": 1204,
+          "VolumeM3": 0.7247
+        }
+      ]
+    },
+    {
+      "DocNum": 1064,
+      "CardName": "FCC Construccion",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 13960,
+      "VolumeM3": 10.2195,
+      "City": "Fujairah",
+      "Street": "Al Hayl Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 7,
+          "WeightKg": 1540,
+          "VolumeM3": 1.0087
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 9,
+          "WeightKg": 1125,
+          "VolumeM3": 0.5944
+        },
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 7,
+          "WeightKg": 1015,
+          "VolumeM3": 0.6984
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 9,
+          "WeightKg": 3240,
+          "VolumeM3": 2.4801
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 13,
+          "WeightKg": 4160,
+          "VolumeM3": 3.4266
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 12,
+          "WeightKg": 2880,
+          "VolumeM3": 2.0113
+        }
+      ]
+    },
+    {
+      "DocNum": 1065,
+      "CardName": "United Engineering Construction",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 14880,
+      "VolumeM3": 10.379,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Ghail Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 15,
+          "WeightKg": 7200,
+          "VolumeM3": 5.0831
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 8,
+          "WeightKg": 3200,
+          "VolumeM3": 2.0016
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 13,
+          "WeightKg": 1820,
+          "VolumeM3": 0.8183
+        },
+        {
+          "ItemCode": "SCF-TRUSS-3M",
+          "ItemName": "Truss Ledger 3.0m",
+          "Quantity": 70,
+          "WeightKg": 2660,
+          "VolumeM3": 2.476
+        }
+      ]
+    },
+    {
+      "DocNum": 1066,
+      "CardName": "United Engineering Construction",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 15313,
+      "VolumeM3": 7.9841,
+      "City": "Fujairah",
+      "Street": "Fujairah Free Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 13,
+          "WeightKg": 1625,
+          "VolumeM3": 1.1919
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 7,
+          "WeightKg": 12600,
+          "VolumeM3": 5.8515
+        },
+        {
+          "ItemCode": "SCF-PLANK-STL-4M",
+          "ItemName": "Steel Scaffold Plank 4.0m",
+          "Quantity": 34,
+          "WeightKg": 1088,
+          "VolumeM3": 0.9407
+        }
+      ]
+    },
+    {
+      "DocNum": 1067,
+      "CardName": "Strabag International",
+      "WarehouseCode": "WH-AJM-01",
+      "WeightKg": 15195,
+      "VolumeM3": 8.0907,
+      "City": "Sharjah",
+      "Street": "Al Nahda",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 15,
+          "WeightKg": 4650,
+          "VolumeM3": 1.6321
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 13,
+          "WeightKg": 6240,
+          "VolumeM3": 4.3865
+        },
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 14,
+          "WeightKg": 2030,
+          "VolumeM3": 1.1546
+        },
+        {
+          "ItemCode": "SCF-FRAME-ARCH",
+          "ItemName": "Arch Frame Scaffold",
+          "Quantity": 35,
+          "WeightKg": 2275,
+          "VolumeM3": 0.9175
+        }
+      ]
+    },
+    {
+      "DocNum": 1068,
+      "CardName": "COWI A/S",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 14785,
+      "VolumeM3": 11.9431,
+      "City": "Fujairah",
+      "Street": "Fujairah Free Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 5,
+          "WeightKg": 650,
+          "VolumeM3": 0.5609
+        },
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 11,
+          "WeightKg": 1595,
+          "VolumeM3": 0.9972
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 6,
+          "WeightKg": 5820,
+          "VolumeM3": 5.4838
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 10,
+          "WeightKg": 1600,
+          "VolumeM3": 0.6293
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 13,
+          "WeightKg": 1820,
+          "VolumeM3": 1.2227
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 15,
+          "WeightKg": 3300,
+          "VolumeM3": 3.0492
+        }
+      ]
+    },
+    {
+      "DocNum": 1069,
+      "CardName": "McDermott International",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14045,
+      "VolumeM3": 7.9041,
+      "City": "Ajman",
+      "Street": "Al Nuaimiya",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 10,
+          "WeightKg": 2200,
+          "VolumeM3": 1.3531
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 6,
+          "WeightKg": 720,
+          "VolumeM3": 0.6393
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 15,
+          "WeightKg": 1575,
+          "VolumeM3": 1.3299
+        },
+        {
+          "ItemCode": "STL-COL-UC-203",
+          "ItemName": "Universal Column 203x203x46",
+          "Quantity": 13,
+          "WeightKg": 5980,
+          "VolumeM3": 2.7955
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 4,
+          "WeightKg": 560,
+          "VolumeM3": 0.4477
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 7,
+          "WeightKg": 910,
+          "VolumeM3": 0.4869
+        },
+        {
+          "ItemCode": "STL-CHS-90MM",
+          "ItemName": "Circular Hollow Section 88.9mm",
+          "Quantity": 28,
+          "WeightKg": 2100,
+          "VolumeM3": 0.8517
+        }
+      ]
+    },
+    {
+      "DocNum": 1070,
+      "CardName": "Laing O'Rourke Middle East",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 14590,
+      "VolumeM3": 9.2256,
+      "City": "Ras Al Khaimah",
+      "Street": "Saif Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 9,
+          "WeightKg": 4320,
+          "VolumeM3": 2.2966
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 9,
+          "WeightKg": 1260,
+          "VolumeM3": 0.4329
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 9,
+          "WeightKg": 1620,
+          "VolumeM3": 0.9277
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 12,
+          "WeightKg": 1440,
+          "VolumeM3": 1.3856
+        },
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 7,
+          "WeightKg": 5950,
+          "VolumeM3": 4.1828
+        }
+      ]
+    },
+    {
+      "DocNum": 1071,
+      "CardName": "Al Rostamani Group",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 15425,
+      "VolumeM3": 10.4712,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Ghail Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 9,
+          "WeightKg": 1620,
+          "VolumeM3": 1.0963
+        },
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 11,
+          "WeightKg": 2420,
+          "VolumeM3": 2.081
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 6,
+          "WeightKg": 1320,
+          "VolumeM3": 0.8471
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 9,
+          "WeightKg": 945,
+          "VolumeM3": 0.6048
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 8,
+          "WeightKg": 2560,
+          "VolumeM3": 1.9666
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 9,
+          "WeightKg": 1350,
+          "VolumeM3": 1.0894
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 10,
+          "WeightKg": 1800,
+          "VolumeM3": 1.6986
+        },
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 11,
+          "WeightKg": 3410,
+          "VolumeM3": 1.0874
+        }
+      ]
+    },
+    {
+      "DocNum": 1072,
+      "CardName": "Vinci Construction",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 15865,
+      "VolumeM3": 6.1872,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Hamra Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 10,
+          "WeightKg": 1200,
+          "VolumeM3": 0.5127
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 9,
+          "WeightKg": 945,
+          "VolumeM3": 0.5
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 8,
+          "WeightKg": 1120,
+          "VolumeM3": 0.6006
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 9,
+          "WeightKg": 1980,
+          "VolumeM3": 0.9797
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 9,
+          "WeightKg": 1620,
+          "VolumeM3": 0.7721
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 5,
+          "WeightKg": 9000,
+          "VolumeM3": 2.8221
+        }
+      ]
+    },
+    {
+      "DocNum": 1073,
+      "CardName": "Six Construct",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 13885,
+      "VolumeM3": 6.461,
+      "City": "Ajman",
+      "Street": "Emirates City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 13,
+          "WeightKg": 1560,
+          "VolumeM3": 0.512
+        },
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 6,
+          "WeightKg": 5100,
+          "VolumeM3": 2.2417
+        },
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 6,
+          "WeightKg": 5100,
+          "VolumeM3": 2.074
+        },
+        {
+          "ItemCode": "STL-CAB-12MM",
+          "ItemName": "Steel Cable 12mm 6x19 IWRC",
+          "Quantity": 25,
+          "WeightKg": 2125,
+          "VolumeM3": 1.6333
+        }
+      ]
+    },
+    {
+      "DocNum": 1074,
+      "CardName": "NCC AB",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 13728,
+      "VolumeM3": 10.1563,
+      "City": "Ajman",
+      "Street": "Emirates City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 8,
+          "WeightKg": 960,
+          "VolumeM3": 0.4008
+        },
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 14,
+          "WeightKg": 4340,
+          "VolumeM3": 3.4844
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 5,
+          "WeightKg": 600,
+          "VolumeM3": 0.5852
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 12,
+          "WeightKg": 1920,
+          "VolumeM3": 0.6105
+        },
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 12,
+          "WeightKg": 1680,
+          "VolumeM3": 1.3006
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 9,
+          "WeightKg": 2880,
+          "VolumeM3": 2.762
+        },
+        {
+          "ItemCode": "SCF-FRM-BRD-3.0M",
+          "ItemName": "Scaffold Board 3.0m x 225mm",
+          "Quantity": 24,
+          "WeightKg": 672,
+          "VolumeM3": 0.4801
+        },
+        {
+          "ItemCode": "SCF-KWIK-STD-3M",
+          "ItemName": "Kwikstage Standard 3.0m",
+          "Quantity": 26,
+          "WeightKg": 676,
+          "VolumeM3": 0.5327
+        }
+      ]
+    },
+    {
+      "DocNum": 1075,
+      "CardName": "Larsen & Toubro ECC",
+      "WarehouseCode": "WH-AUH-01",
+      "WeightKg": 15730,
+      "VolumeM3": 8.6045,
+      "City": "Abu Dhabi",
+      "Street": "Mussafah Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 13,
+          "WeightKg": 6240,
+          "VolumeM3": 3.4907
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 13,
+          "WeightKg": 9490,
+          "VolumeM3": 5.1138
+        }
+      ]
+    },
+    {
+      "DocNum": 1076,
+      "CardName": "KBR Inc.",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 14712,
+      "VolumeM3": 11.9142,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Hamra Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 10,
+          "WeightKg": 4000,
+          "VolumeM3": 3.1805
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 5,
+          "WeightKg": 2400,
+          "VolumeM3": 1.9528
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 7,
+          "WeightKg": 2800,
+          "VolumeM3": 2.0472
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 11,
+          "WeightKg": 3410,
+          "VolumeM3": 2.8721
+        },
+        {
+          "ItemCode": "SCF-DECK-ALLOY-3M",
+          "ItemName": "Alloy Deck 3.0m",
+          "Quantity": 47,
+          "WeightKg": 1222,
+          "VolumeM3": 1.0729
+        },
+        {
+          "ItemCode": "SCF-LADDER-5M",
+          "ItemName": "Scaffold Ladder 5.0m",
+          "Quantity": 40,
+          "WeightKg": 880,
+          "VolumeM3": 0.7887
+        }
+      ]
+    },
+    {
+      "DocNum": 1077,
+      "CardName": "Strabag International",
+      "WarehouseCode": "WH-DXB-02",
+      "WeightKg": 16115,
+      "VolumeM3": 10.0651,
+      "City": "Dubai",
+      "Street": "Downtown Dubai",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 12,
+          "WeightKg": 3000,
+          "VolumeM3": 2.3032
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 3,
+          "WeightKg": 660,
+          "VolumeM3": 0.4264
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 5,
+          "WeightKg": 1100,
+          "VolumeM3": 0.7054
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 15,
+          "WeightKg": 2700,
+          "VolumeM3": 1.2983
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 12,
+          "WeightKg": 1260,
+          "VolumeM3": 0.9964
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 11,
+          "WeightKg": 1155,
+          "VolumeM3": 0.3547
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 4,
+          "WeightKg": 1440,
+          "VolumeM3": 0.6753
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 10,
+          "WeightKg": 4800,
+          "VolumeM3": 3.3054
+        }
+      ]
+    },
+    {
+      "DocNum": 1078,
+      "CardName": "McDermott International",
+      "WarehouseCode": "WH-AJM-02",
+      "WeightKg": 13614,
+      "VolumeM3": 6.51,
+      "City": "Sharjah",
+      "Street": "Al Saja'a Industrial",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 7,
+          "WeightKg": 12600,
+          "VolumeM3": 5.7345
+        },
+        {
+          "ItemCode": "SCF-KWIK-STD-3M",
+          "ItemName": "Kwikstage Standard 3.0m",
+          "Quantity": 39,
+          "WeightKg": 1014,
+          "VolumeM3": 0.7755
+        }
+      ]
+    },
+    {
+      "DocNum": 1079,
+      "CardName": "Fugro Middle East",
+      "WarehouseCode": "WH-AUH-02",
+      "WeightKg": 14943,
+      "VolumeM3": 9.2737,
+      "City": "Abu Dhabi",
+      "Street": "Al Ain Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 8,
+          "WeightKg": 1760,
+          "VolumeM3": 1.3939
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 7,
+          "WeightKg": 735,
+          "VolumeM3": 0.3498
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 14,
+          "WeightKg": 2240,
+          "VolumeM3": 0.974
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 14,
+          "WeightKg": 2240,
+          "VolumeM3": 1.5122
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 14,
+          "WeightKg": 1680,
+          "VolumeM3": 0.7217
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 14,
+          "WeightKg": 5040,
+          "VolumeM3": 3.2203
+        },
+        {
+          "ItemCode": "SCF-STAIR-3M",
+          "ItemName": "Scaffold Staircase Unit 3.0m",
+          "Quantity": 26,
+          "WeightKg": 1248,
+          "VolumeM3": 1.1018
+        }
+      ]
+    },
+    {
+      "DocNum": 1080,
+      "CardName": "Target Engineering Construction",
+      "WarehouseCode": "WH-AUH-01",
+      "WeightKg": 14119,
+      "VolumeM3": 10.1269,
+      "City": "Abu Dhabi",
+      "Street": "Al Ain Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 14,
+          "WeightKg": 11900,
+          "VolumeM3": 8.0193
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 3,
+          "WeightKg": 315,
+          "VolumeM3": 0.3093
+        },
+        {
+          "ItemCode": "SCF-PLANK-ALU-4M",
+          "ItemName": "Aluminum Scaffold Plank 4.0m",
+          "Quantity": 64,
+          "WeightKg": 1280,
+          "VolumeM3": 1.2299
+        },
+        {
+          "ItemCode": "SCF-PLANK-TIMBER-4M",
+          "ItemName": "Timber Scaffold Plank 4.0m",
+          "Quantity": 26,
+          "WeightKg": 624,
+          "VolumeM3": 0.5684
+        }
+      ]
+    },
+    {
+      "DocNum": 1081,
+      "CardName": "Wood Group",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 15750,
+      "VolumeM3": 11.398,
+      "City": "Ajman",
+      "Street": "Emirates City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 5,
+          "WeightKg": 1100,
+          "VolumeM3": 1.0734
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 10,
+          "WeightKg": 1050,
+          "VolumeM3": 0.3989
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 4,
+          "WeightKg": 7200,
+          "VolumeM3": 4.6384
+        },
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 13,
+          "WeightKg": 3250,
+          "VolumeM3": 2.5367
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 5,
+          "WeightKg": 600,
+          "VolumeM3": 0.5207
+        },
+        {
+          "ItemCode": "SCF-PLANK-STL-3M",
+          "ItemName": "Steel Scaffold Plank 3.0m",
+          "Quantity": 25,
+          "WeightKg": 625,
+          "VolumeM3": 0.6223
+        },
+        {
+          "ItemCode": "STL-MES-100X100",
+          "ItemName": "Welded Wire Mesh 100x100mm",
+          "Quantity": 55,
+          "WeightKg": 1925,
+          "VolumeM3": 1.6076
+        }
+      ]
+    },
+    {
+      "DocNum": 1082,
+      "CardName": "Hyundai Engineering & Construction",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14980,
+      "VolumeM3": 7.4859,
+      "City": "Ajman",
+      "Street": "Al Nuaimiya",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 10,
+          "WeightKg": 3100,
+          "VolumeM3": 1.5753
+        },
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 9,
+          "WeightKg": 2250,
+          "VolumeM3": 1.156
+        },
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 3,
+          "WeightKg": 930,
+          "VolumeM3": 0.6759
+        },
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 4,
+          "WeightKg": 880,
+          "VolumeM3": 0.8477
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 13,
+          "WeightKg": 4680,
+          "VolumeM3": 2.0953
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 4,
+          "WeightKg": 500,
+          "VolumeM3": 0.205
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 11,
+          "WeightKg": 2640,
+          "VolumeM3": 0.9307
+        }
+      ]
+    },
+    {
+      "DocNum": 1083,
+      "CardName": "Skanska AB",
+      "WarehouseCode": "WH-DXB-02",
+      "WeightKg": 15319,
+      "VolumeM3": 10.8815,
+      "City": "Dubai",
+      "Street": "Downtown Dubai",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 3,
+          "WeightKg": 420,
+          "VolumeM3": 0.1941
+        },
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 7,
+          "WeightKg": 1015,
+          "VolumeM3": 0.804
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 4,
+          "WeightKg": 560,
+          "VolumeM3": 0.4375
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 7,
+          "WeightKg": 2170,
+          "VolumeM3": 1.8477
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 12,
+          "WeightKg": 4800,
+          "VolumeM3": 3.6616
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 6,
+          "WeightKg": 1860,
+          "VolumeM3": 1.1115
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 3,
+          "WeightKg": 2910,
+          "VolumeM3": 2.1922
+        },
+        {
+          "ItemCode": "SCF-LADDER-5M",
+          "ItemName": "Scaffold Ladder 5.0m",
+          "Quantity": 72,
+          "WeightKg": 1584,
+          "VolumeM3": 0.6329
+        }
+      ]
+    },
+    {
+      "DocNum": 1084,
+      "CardName": "El Seif Engineering Contracting",
+      "WarehouseCode": "WH-DXB-01",
+      "WeightKg": 15770,
+      "VolumeM3": 9.327,
+      "City": "Dubai",
+      "Street": "Jebel Ali Industrial",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 7,
+          "WeightKg": 2170,
+          "VolumeM3": 1.3181
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 14,
+          "WeightKg": 1960,
+          "VolumeM3": 1.0052
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 7,
+          "WeightKg": 2240,
+          "VolumeM3": 1.4567
+        },
+        {
+          "ItemCode": "STL-COL-UC-203",
+          "ItemName": "Universal Column 203x203x46",
+          "Quantity": 10,
+          "WeightKg": 4600,
+          "VolumeM3": 1.639
+        },
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 4,
+          "WeightKg": 4800,
+          "VolumeM3": 3.908
+        }
+      ]
+    },
+    {
+      "DocNum": 1085,
+      "CardName": "Azizi Developments",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14250,
+      "VolumeM3": 10.8916,
+      "City": "Ajman",
+      "Street": "Al Jurf Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 12,
+          "WeightKg": 1500,
+          "VolumeM3": 1.0665
+        },
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 15,
+          "WeightKg": 12750,
+          "VolumeM3": 9.8251
+        }
+      ]
+    },
+    {
+      "DocNum": 1086,
+      "CardName": "Subsea 7",
+      "WarehouseCode": "WH-AUH-01",
+      "WeightKg": 15220,
+      "VolumeM3": 10.492,
+      "City": "Abu Dhabi",
+      "Street": "Khalifa Industrial Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 10,
+          "WeightKg": 4000,
+          "VolumeM3": 3.765
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 12,
+          "WeightKg": 2880,
+          "VolumeM3": 1.7427
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 10,
+          "WeightKg": 1800,
+          "VolumeM3": 1.761
+        },
+        {
+          "ItemCode": "STL-COL-UC-203",
+          "ItemName": "Universal Column 203x203x46",
+          "Quantity": 8,
+          "WeightKg": 3680,
+          "VolumeM3": 2.1559
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 13,
+          "WeightKg": 2860,
+          "VolumeM3": 1.0674
+        }
+      ]
+    },
+    {
+      "DocNum": 1087,
+      "CardName": "Skanska AB",
+      "WarehouseCode": "WH-AJM-02",
+      "WeightKg": 14580,
+      "VolumeM3": 12.475,
+      "City": "Sharjah",
+      "Street": "Al Saja'a Industrial",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 13,
+          "WeightKg": 1820,
+          "VolumeM3": 1.7502
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 15,
+          "WeightKg": 2700,
+          "VolumeM3": 1.8497
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 4,
+          "WeightKg": 560,
+          "VolumeM3": 0.2913
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 4,
+          "WeightKg": 880,
+          "VolumeM3": 0.8616
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 11,
+          "WeightKg": 3520,
+          "VolumeM3": 3.0886
+        },
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 6,
+          "WeightKg": 5100,
+          "VolumeM3": 4.6336
+        }
+      ]
+    },
+    {
+      "DocNum": 1088,
+      "CardName": "ASGC Construction",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 14700,
+      "VolumeM3": 10.782,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Hamra Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 12,
+          "WeightKg": 2160,
+          "VolumeM3": 1.7917
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 10,
+          "WeightKg": 4000,
+          "VolumeM3": 3.328
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 7,
+          "WeightKg": 2520,
+          "VolumeM3": 1.7248
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 7,
+          "WeightKg": 2170,
+          "VolumeM3": 1.3165
+        },
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 10,
+          "WeightKg": 1450,
+          "VolumeM3": 0.5582
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 6,
+          "WeightKg": 2400,
+          "VolumeM3": 2.0628
+        }
+      ]
+    },
+    {
+      "DocNum": 1089,
+      "CardName": "Khatib & Alami",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 13742,
+      "VolumeM3": 7.246,
+      "City": "Fujairah",
+      "Street": "Al Hayl Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 9,
+          "WeightKg": 8730,
+          "VolumeM3": 3.1886
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 4,
+          "WeightKg": 720,
+          "VolumeM3": 0.4486
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 13,
+          "WeightKg": 2080,
+          "VolumeM3": 1.8356
+        },
+        {
+          "ItemCode": "SCF-FENCE-PANEL",
+          "ItemName": "Site Fence Panel 3.5m x 2.0m",
+          "Quantity": 79,
+          "WeightKg": 2212,
+          "VolumeM3": 1.7732
+        }
+      ]
+    },
+    {
+      "DocNum": 1090,
+      "CardName": "Peikko Group",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 15080,
+      "VolumeM3": 9.5378,
+      "City": "Ajman",
+      "Street": "Emirates City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-COL-UC-203",
+          "ItemName": "Universal Column 203x203x46",
+          "Quantity": 6,
+          "WeightKg": 2760,
+          "VolumeM3": 1.7105
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 9,
+          "WeightKg": 1080,
+          "VolumeM3": 0.4681
+        },
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 11,
+          "WeightKg": 3410,
+          "VolumeM3": 2.8044
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 4,
+          "WeightKg": 480,
+          "VolumeM3": 0.2368
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 9,
+          "WeightKg": 1350,
+          "VolumeM3": 0.7262
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 11,
+          "WeightKg": 1650,
+          "VolumeM3": 0.8036
+        },
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 3,
+          "WeightKg": 2550,
+          "VolumeM3": 2.061
+        },
+        {
+          "ItemCode": "SCF-PLANK-TIMBER-4M",
+          "ItemName": "Timber Scaffold Plank 4.0m",
+          "Quantity": 75,
+          "WeightKg": 1800,
+          "VolumeM3": 0.7272
+        }
+      ]
+    },
+    {
+      "DocNum": 1091,
+      "CardName": "Al Jaber LEGT Engineering",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 16645,
+      "VolumeM3": 11.5711,
+      "City": "Ajman",
+      "Street": "Emirates City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 11,
+          "WeightKg": 1320,
+          "VolumeM3": 0.7445
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 8,
+          "WeightKg": 2480,
+          "VolumeM3": 2.2536
+        },
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 6,
+          "WeightKg": 870,
+          "VolumeM3": 0.6092
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 15,
+          "WeightKg": 1950,
+          "VolumeM3": 1.1457
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 14,
+          "WeightKg": 3080,
+          "VolumeM3": 1.9437
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 15,
+          "WeightKg": 4650,
+          "VolumeM3": 2.6359
+        },
+        {
+          "ItemCode": "STL-BAR-ROUND-40",
+          "ItemName": "Round Steel Bar 40mm",
+          "Quantity": 51,
+          "WeightKg": 2295,
+          "VolumeM3": 2.2385
+        }
+      ]
+    },
+    {
+      "DocNum": 1092,
+      "CardName": "Fluor Corporation",
+      "WarehouseCode": "WH-AJM-02",
+      "WeightKg": 13860,
+      "VolumeM3": 5.6529,
+      "City": "Sharjah",
+      "Street": "Al Nahda",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 10,
+          "WeightKg": 7300,
+          "VolumeM3": 2.2684
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 9,
+          "WeightKg": 1080,
+          "VolumeM3": 0.9824
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 4,
+          "WeightKg": 480,
+          "VolumeM3": 0.3017
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 8,
+          "WeightKg": 840,
+          "VolumeM3": 0.6185
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 13,
+          "WeightKg": 4160,
+          "VolumeM3": 1.4819
+        }
+      ]
+    },
+    {
+      "DocNum": 1093,
+      "CardName": "Al Kharafi National",
+      "WarehouseCode": "WH-AUH-02",
+      "WeightKg": 14950,
+      "VolumeM3": 10.8215,
+      "City": "Abu Dhabi",
+      "Street": "Al Ain Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 11,
+          "WeightKg": 1980,
+          "VolumeM3": 0.6438
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 6,
+          "WeightKg": 10800,
+          "VolumeM3": 8.0116
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 7,
+          "WeightKg": 2170,
+          "VolumeM3": 2.1661
+        }
+      ]
+    },
+    {
+      "DocNum": 1094,
+      "CardName": "Danube Properties",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 13900,
+      "VolumeM3": 9.1611,
+      "City": "Fujairah",
+      "Street": "Al Hayl Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 5,
+          "WeightKg": 700,
+          "VolumeM3": 0.5501
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 3,
+          "WeightKg": 660,
+          "VolumeM3": 0.2192
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 3,
+          "WeightKg": 450,
+          "VolumeM3": 0.2274
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 9,
+          "WeightKg": 1620,
+          "VolumeM3": 0.6511
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 9,
+          "WeightKg": 6570,
+          "VolumeM3": 4.5737
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 5,
+          "WeightKg": 750,
+          "VolumeM3": 0.3142
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 9,
+          "WeightKg": 1620,
+          "VolumeM3": 1.1888
+        },
+        {
+          "ItemCode": "SCF-RNG-BRD-3M",
+          "ItemName": "Ringlock Steel Board 3.0m",
+          "Quantity": 51,
+          "WeightKg": 1530,
+          "VolumeM3": 1.4366
+        }
+      ]
+    },
+    {
+      "DocNum": 1095,
+      "CardName": "Bouygues Construction",
+      "WarehouseCode": "WH-AJM-01",
+      "WeightKg": 15100,
+      "VolumeM3": 12.7136,
+      "City": "Sharjah",
+      "Street": "Al Saja'a Industrial",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 7,
+          "WeightKg": 980,
+          "VolumeM3": 0.7515
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 15,
+          "WeightKg": 3300,
+          "VolumeM3": 2.0647
+        },
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 13,
+          "WeightKg": 1820,
+          "VolumeM3": 1.2424
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 5,
+          "WeightKg": 9000,
+          "VolumeM3": 8.655
+        }
+      ]
+    },
+    {
+      "DocNum": 1096,
+      "CardName": "Fugro Middle East",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14980,
+      "VolumeM3": 8.4987,
+      "City": "Ajman",
+      "Street": "Al Nuaimiya",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 7,
+          "WeightKg": 980,
+          "VolumeM3": 0.4307
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 10,
+          "WeightKg": 3200,
+          "VolumeM3": 1.1989
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 12,
+          "WeightKg": 3840,
+          "VolumeM3": 2.1169
+        },
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 14,
+          "WeightKg": 1960,
+          "VolumeM3": 0.9931
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 13,
+          "WeightKg": 2340,
+          "VolumeM3": 1.3503
+        },
+        {
+          "ItemCode": "STL-ANG-75X75",
+          "ItemName": "Steel Angle Bar 75x75x8mm",
+          "Quantity": 28,
+          "WeightKg": 2660,
+          "VolumeM3": 2.4088
+        }
+      ]
+    },
+    {
+      "DocNum": 1097,
+      "CardName": "Peikko Group",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 14725,
+      "VolumeM3": 8.8119,
+      "City": "Fujairah",
+      "Street": "Al Hayl Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 15,
+          "WeightKg": 1800,
+          "VolumeM3": 0.8299
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 8,
+          "WeightKg": 1200,
+          "VolumeM3": 0.544
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 12,
+          "WeightKg": 4320,
+          "VolumeM3": 2.0539
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 14,
+          "WeightKg": 1680,
+          "VolumeM3": 1.4065
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 5,
+          "WeightKg": 625,
+          "VolumeM3": 0.4624
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 13,
+          "WeightKg": 2860,
+          "VolumeM3": 2.152
+        },
+        {
+          "ItemCode": "SCF-PLANK-STL-4M",
+          "ItemName": "Steel Scaffold Plank 4.0m",
+          "Quantity": 70,
+          "WeightKg": 2240,
+          "VolumeM3": 1.3632
+        }
+      ]
+    },
+    {
+      "DocNum": 1098,
+      "CardName": "Wade Adams Contracting",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 13805,
+      "VolumeM3": 10.0801,
+      "City": "Ajman",
+      "Street": "Al Nuaimiya",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 7,
+          "WeightKg": 2170,
+          "VolumeM3": 1.1473
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 5,
+          "WeightKg": 2400,
+          "VolumeM3": 1.0573
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 11,
+          "WeightKg": 1650,
+          "VolumeM3": 1.5073
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 11,
+          "WeightKg": 1980,
+          "VolumeM3": 1.2895
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 5,
+          "WeightKg": 525,
+          "VolumeM3": 0.2519
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 10,
+          "WeightKg": 1800,
+          "VolumeM3": 1.7589
+        },
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 14,
+          "WeightKg": 1960,
+          "VolumeM3": 1.7822
+        },
+        {
+          "ItemCode": "STL-MES-50X50",
+          "ItemName": "Welded Wire Mesh 50x50mm",
+          "Quantity": 24,
+          "WeightKg": 1320,
+          "VolumeM3": 1.2857
+        }
+      ]
+    },
+    {
+      "DocNum": 1099,
+      "CardName": "Kruse Smith",
+      "WarehouseCode": "WH-AJM-01",
+      "WeightKg": 15957,
+      "VolumeM3": 11.263,
+      "City": "Sharjah",
+      "Street": "Al Saja'a Industrial",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 4,
+          "WeightKg": 720,
+          "VolumeM3": 0.6145
+        },
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 7,
+          "WeightKg": 5950,
+          "VolumeM3": 4.0198
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 8,
+          "WeightKg": 1120,
+          "VolumeM3": 0.8635
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 7,
+          "WeightKg": 875,
+          "VolumeM3": 0.6205
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 13,
+          "WeightKg": 2340,
+          "VolumeM3": 2.2422
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 13,
+          "WeightKg": 2080,
+          "VolumeM3": 0.9644
+        },
+        {
+          "ItemCode": "STL-REB-16MM",
+          "ItemName": "Steel Rebar 16mm Diameter",
+          "Quantity": 59,
+          "WeightKg": 1652,
+          "VolumeM3": 1.5181
+        },
+        {
+          "ItemCode": "SCF-RNG-LOCK-48MM",
+          "ItemName": "Ringlock Rosette 48mm Standard",
+          "Quantity": 61,
+          "WeightKg": 1220,
+          "VolumeM3": 0.42
+        }
+      ]
+    },
+    {
+      "DocNum": 1100,
+      "CardName": "Parsons International",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 13150,
+      "VolumeM3": 9.9911,
+      "City": "Ras Al Khaimah",
+      "Street": "Saif Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 3,
+          "WeightKg": 360,
+          "VolumeM3": 0.3465
+        },
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 10,
+          "WeightKg": 1400,
+          "VolumeM3": 0.5338
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 11,
+          "WeightKg": 1430,
+          "VolumeM3": 0.5648
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 8,
+          "WeightKg": 1120,
+          "VolumeM3": 0.8617
+        },
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 14,
+          "WeightKg": 3080,
+          "VolumeM3": 2.9635
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 12,
+          "WeightKg": 5760,
+          "VolumeM3": 4.7208
+        }
+      ]
+    },
+    {
+      "DocNum": 1101,
+      "CardName": "Peikko Group",
+      "WarehouseCode": "WH-AJM-02",
+      "WeightKg": 16327,
+      "VolumeM3": 10.0102,
+      "City": "Sharjah",
+      "Street": "Al Nahda",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 9,
+          "WeightKg": 2790,
+          "VolumeM3": 2.671
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 3,
+          "WeightKg": 315,
+          "VolumeM3": 0.2467
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 10,
+          "WeightKg": 3600,
+          "VolumeM3": 2.2006
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 8,
+          "WeightKg": 1040,
+          "VolumeM3": 0.3843
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 8,
+          "WeightKg": 1000,
+          "VolumeM3": 0.6811
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 8,
+          "WeightKg": 3200,
+          "VolumeM3": 1.0956
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 6,
+          "WeightKg": 630,
+          "VolumeM3": 0.616
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 10,
+          "WeightKg": 1800,
+          "VolumeM3": 0.6555
+        },
+        {
+          "ItemCode": "SCF-CUP-BRD-3M",
+          "ItemName": "Cuplock Steel Board 3.0m",
+          "Quantity": 61,
+          "WeightKg": 1952,
+          "VolumeM3": 1.4594
+        }
+      ]
+    },
+    {
+      "DocNum": 1102,
+      "CardName": "Strabag International",
+      "WarehouseCode": "WH-DXB-01",
+      "WeightKg": 14355,
+      "VolumeM3": 10.3164,
+      "City": "Dubai",
+      "Street": "Jebel Ali Industrial",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 12,
+          "WeightKg": 1800,
+          "VolumeM3": 0.7986
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 15,
+          "WeightKg": 2700,
+          "VolumeM3": 1.8575
+        },
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 6,
+          "WeightKg": 1500,
+          "VolumeM3": 1.3037
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 8,
+          "WeightKg": 1040,
+          "VolumeM3": 0.8757
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 12,
+          "WeightKg": 1800,
+          "VolumeM3": 0.5436
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 5,
+          "WeightKg": 900,
+          "VolumeM3": 0.8921
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 3,
+          "WeightKg": 2910,
+          "VolumeM3": 2.4996
+        },
+        {
+          "ItemCode": "STL-MES-50X50",
+          "ItemName": "Welded Wire Mesh 50x50mm",
+          "Quantity": 31,
+          "WeightKg": 1705,
+          "VolumeM3": 1.5456
+        }
+      ]
+    },
+    {
+      "DocNum": 1103,
+      "CardName": "Per Aarsleff",
+      "WarehouseCode": "WH-AJM-01",
+      "WeightKg": 14124,
+      "VolumeM3": 6.6052,
+      "City": "Sharjah",
+      "Street": "Industrial Area 2",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 8,
+          "WeightKg": 2000,
+          "VolumeM3": 0.6221
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 3,
+          "WeightKg": 315,
+          "VolumeM3": 0.1225
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 11,
+          "WeightKg": 5280,
+          "VolumeM3": 2.004
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 15,
+          "WeightKg": 2100,
+          "VolumeM3": 1.1622
+        },
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 4,
+          "WeightKg": 1000,
+          "VolumeM3": 0.6164
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 12,
+          "WeightKg": 1560,
+          "VolumeM3": 0.5154
+        },
+        {
+          "ItemCode": "SCF-PLANK-STL-3M",
+          "ItemName": "Steel Scaffold Plank 3.0m",
+          "Quantity": 49,
+          "WeightKg": 1225,
+          "VolumeM3": 0.9192
+        },
+        {
+          "ItemCode": "STL-REB-16MM",
+          "ItemName": "Steel Rebar 16mm Diameter",
+          "Quantity": 23,
+          "WeightKg": 644,
+          "VolumeM3": 0.6434
+        }
+      ]
+    },
+    {
+      "DocNum": 1104,
+      "CardName": "MAG Property Development",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 15850,
+      "VolumeM3": 10.9612,
+      "City": "Ras Al Khaimah",
+      "Street": "Saif Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 10,
+          "WeightKg": 1450,
+          "VolumeM3": 0.5096
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 8,
+          "WeightKg": 14400,
+          "VolumeM3": 10.4516
+        }
+      ]
+    },
+    {
+      "DocNum": 1105,
+      "CardName": "Mabanee Company",
+      "WarehouseCode": "WH-DXB-01",
+      "WeightKg": 15470,
+      "VolumeM3": 8.5842,
+      "City": "Dubai",
+      "Street": "Jebel Ali Industrial",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 14,
+          "WeightKg": 13580,
+          "VolumeM3": 7.1652
+        },
+        {
+          "ItemCode": "SCF-PLANK-ALU-4M",
+          "ItemName": "Aluminum Scaffold Plank 4.0m",
+          "Quantity": 49,
+          "WeightKg": 980,
+          "VolumeM3": 0.6408
+        },
+        {
+          "ItemCode": "SCF-PROP-ACROW-6M",
+          "ItemName": "Acrow Prop Size 4 (4.6-6.0m)",
+          "Quantity": 26,
+          "WeightKg": 910,
+          "VolumeM3": 0.7782
+        }
+      ]
+    },
+    {
+      "DocNum": 1106,
+      "CardName": "Ramboll Group",
+      "WarehouseCode": "WH-DXB-03",
+      "WeightKg": 15455,
+      "VolumeM3": 9.8685,
+      "City": "Dubai",
+      "Street": "Dubai Investment Park",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 6,
+          "WeightKg": 1320,
+          "VolumeM3": 0.7934
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 6,
+          "WeightKg": 1320,
+          "VolumeM3": 0.7784
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 10,
+          "WeightKg": 1800,
+          "VolumeM3": 1.0424
+        },
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 4,
+          "WeightKg": 880,
+          "VolumeM3": 0.4565
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 13,
+          "WeightKg": 2860,
+          "VolumeM3": 1.3683
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 13,
+          "WeightKg": 1560,
+          "VolumeM3": 1.4759
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 2,
+          "WeightKg": 3600,
+          "VolumeM3": 3.1761
+        },
+        {
+          "ItemCode": "STL-SHT-CR-2MM",
+          "ItemName": "Cold Rolled Steel Sheet 2mm",
+          "Quantity": 47,
+          "WeightKg": 2115,
+          "VolumeM3": 0.7775
+        }
+      ]
+    },
+    {
+      "DocNum": 1107,
+      "CardName": "Consolidated Engineering",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 13702,
+      "VolumeM3": 7.4237,
+      "City": "Fujairah",
+      "Street": "Fujairah Free Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 11,
+          "WeightKg": 2750,
+          "VolumeM3": 1.9062
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 4,
+          "WeightKg": 500,
+          "VolumeM3": 0.2938
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 13,
+          "WeightKg": 2340,
+          "VolumeM3": 2.2436
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 14,
+          "WeightKg": 6720,
+          "VolumeM3": 2.258
+        },
+        {
+          "ItemCode": "SCF-STAIR-3M",
+          "ItemName": "Scaffold Staircase Unit 3.0m",
+          "Quantity": 29,
+          "WeightKg": 1392,
+          "VolumeM3": 0.7221
+        }
+      ]
+    },
+    {
+      "DocNum": 1108,
+      "CardName": "Laing O'Rourke Middle East",
+      "WarehouseCode": "WH-DXB-03",
+      "WeightKg": 13290,
+      "VolumeM3": 8.532,
+      "City": "Dubai",
+      "Street": "Al Qusais Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 10,
+          "WeightKg": 1250,
+          "VolumeM3": 0.5712
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 8,
+          "WeightKg": 1280,
+          "VolumeM3": 1.1415
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 4,
+          "WeightKg": 720,
+          "VolumeM3": 0.6004
+        },
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 6,
+          "WeightKg": 1500,
+          "VolumeM3": 1.2976
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 11,
+          "WeightKg": 1980,
+          "VolumeM3": 1.9447
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 12,
+          "WeightKg": 2160,
+          "VolumeM3": 1.5757
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 11,
+          "WeightKg": 4400,
+          "VolumeM3": 1.4009
+        }
+      ]
+    },
+    {
+      "DocNum": 1109,
+      "CardName": "Alec Engineering & Contracting",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 14927,
+      "VolumeM3": 7.2734,
+      "City": "Fujairah",
+      "Street": "Fujairah Free Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 15,
+          "WeightKg": 2175,
+          "VolumeM3": 1.1229
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 8,
+          "WeightKg": 1760,
+          "VolumeM3": 0.5355
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 5,
+          "WeightKg": 900,
+          "VolumeM3": 0.6268
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 4,
+          "WeightKg": 1280,
+          "VolumeM3": 0.5111
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 3,
+          "WeightKg": 1200,
+          "VolumeM3": 0.4371
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 6,
+          "WeightKg": 4380,
+          "VolumeM3": 2.4674
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 8,
+          "WeightKg": 1120,
+          "VolumeM3": 0.4594
+        },
+        {
+          "ItemCode": "SCF-PLANK-STL-4M",
+          "ItemName": "Steel Scaffold Plank 4.0m",
+          "Quantity": 66,
+          "WeightKg": 2112,
+          "VolumeM3": 1.1132
+        }
+      ]
+    },
+    {
+      "DocNum": 1110,
+      "CardName": "Dutco Balfour Beatty",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14040,
+      "VolumeM3": 8.1705,
+      "City": "Ajman",
+      "Street": "Al Jurf Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 12,
+          "WeightKg": 1440,
+          "VolumeM3": 0.4822
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 7,
+          "WeightKg": 12600,
+          "VolumeM3": 7.6883
+        }
+      ]
+    },
+    {
+      "DocNum": 1111,
+      "CardName": "Fluor Corporation",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 15990,
+      "VolumeM3": 10.7346,
+      "City": "Ras Al Khaimah",
+      "Street": "Saif Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 6,
+          "WeightKg": 630,
+          "VolumeM3": 0.5219
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 8,
+          "WeightKg": 1280,
+          "VolumeM3": 0.7692
+        },
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 13,
+          "WeightKg": 1820,
+          "VolumeM3": 1.4104
+        },
+        {
+          "ItemCode": "STL-COL-UC-203",
+          "ItemName": "Universal Column 203x203x46",
+          "Quantity": 11,
+          "WeightKg": 5060,
+          "VolumeM3": 3.881
+        },
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 6,
+          "WeightKg": 7200,
+          "VolumeM3": 4.1521
+        }
+      ]
+    },
+    {
+      "DocNum": 1112,
+      "CardName": "China State Construction Engineering",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14635,
+      "VolumeM3": 9.5227,
+      "City": "Ajman",
+      "Street": "Al Jurf Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 15,
+          "WeightKg": 5400,
+          "VolumeM3": 2.1387
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 7,
+          "WeightKg": 735,
+          "VolumeM3": 0.3893
+        },
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 10,
+          "WeightKg": 8500,
+          "VolumeM3": 6.9947
+        }
+      ]
+    },
+    {
+      "DocNum": 1113,
+      "CardName": "Royal HaskoningDHV",
+      "WarehouseCode": "WH-AJM-01",
+      "WeightKg": 13790,
+      "VolumeM3": 10.2718,
+      "City": "Sharjah",
+      "Street": "Al Saja'a Industrial",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 11,
+          "WeightKg": 8030,
+          "VolumeM3": 7.0933
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 8,
+          "WeightKg": 1200,
+          "VolumeM3": 0.4205
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 14,
+          "WeightKg": 2520,
+          "VolumeM3": 0.8306
+        },
+        {
+          "ItemCode": "STL-CHN-20MM",
+          "ItemName": "Steel Chain Link 20mm",
+          "Quantity": 24,
+          "WeightKg": 2040,
+          "VolumeM3": 1.9274
+        }
+      ]
+    },
+    {
+      "DocNum": 1114,
+      "CardName": "Peab AB",
+      "WarehouseCode": "WH-AUH-02",
+      "WeightKg": 15310,
+      "VolumeM3": 10.8184,
+      "City": "Abu Dhabi",
+      "Street": "Zayed City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 4,
+          "WeightKg": 560,
+          "VolumeM3": 0.3268
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 5,
+          "WeightKg": 1100,
+          "VolumeM3": 0.947
+        },
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 10,
+          "WeightKg": 3100,
+          "VolumeM3": 2.7355
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 8,
+          "WeightKg": 2480,
+          "VolumeM3": 0.897
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 4,
+          "WeightKg": 720,
+          "VolumeM3": 0.3386
+        },
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 9,
+          "WeightKg": 2250,
+          "VolumeM3": 1.5002
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 7,
+          "WeightKg": 2240,
+          "VolumeM3": 1.8414
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 8,
+          "WeightKg": 1040,
+          "VolumeM3": 0.8792
+        },
+        {
+          "ItemCode": "STL-CHS-60MM",
+          "ItemName": "Circular Hollow Section 60.3mm",
+          "Quantity": 52,
+          "WeightKg": 1820,
+          "VolumeM3": 1.3527
+        }
+      ]
+    },
+    {
+      "DocNum": 1115,
+      "CardName": "Larsen & Toubro ECC",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 13625,
+      "VolumeM3": 9.7305,
+      "City": "Ajman",
+      "Street": "Emirates City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 4,
+          "WeightKg": 520,
+          "VolumeM3": 0.2093
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 5,
+          "WeightKg": 1800,
+          "VolumeM3": 1.299
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 15,
+          "WeightKg": 1800,
+          "VolumeM3": 1.3659
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 15,
+          "WeightKg": 3600,
+          "VolumeM3": 2.6624
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 15,
+          "WeightKg": 2100,
+          "VolumeM3": 1.4587
+        },
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 10,
+          "WeightKg": 2500,
+          "VolumeM3": 1.942
+        },
+        {
+          "ItemCode": "SCF-SPAN-3M",
+          "ItemName": "Scaffold Span Frame 3.0m",
+          "Quantity": 29,
+          "WeightKg": 1305,
+          "VolumeM3": 0.7932
+        }
+      ]
+    },
+    {
+      "DocNum": 1116,
+      "CardName": "Al Rostamani Group",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 14316,
+      "VolumeM3": 8.8015,
+      "City": "Ras Al Khaimah",
+      "Street": "Saif Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 3,
+          "WeightKg": 750,
+          "VolumeM3": 0.4098
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 7,
+          "WeightKg": 12600,
+          "VolumeM3": 7.8526
+        },
+        {
+          "ItemCode": "STL-REB-20MM",
+          "ItemName": "Steel Rebar 20mm Diameter",
+          "Quantity": 23,
+          "WeightKg": 966,
+          "VolumeM3": 0.5391
+        }
+      ]
+    },
+    {
+      "DocNum": 1117,
+      "CardName": "Al Arrab Contracting",
+      "WarehouseCode": "WH-AUH-01",
+      "WeightKg": 15438,
+      "VolumeM3": 12.6113,
+      "City": "Abu Dhabi",
+      "Street": "Mussafah Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 10,
+          "WeightKg": 3200,
+          "VolumeM3": 2.2599
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 14,
+          "WeightKg": 2100,
+          "VolumeM3": 1.9469
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 15,
+          "WeightKg": 2100,
+          "VolumeM3": 1.4703
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 8,
+          "WeightKg": 2880,
+          "VolumeM3": 2.0837
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 5,
+          "WeightKg": 3650,
+          "VolumeM3": 3.542
+        },
+        {
+          "ItemCode": "SCF-BEAM-ALLOY-6M",
+          "ItemName": "Alloy Beam 6.0m",
+          "Quantity": 26,
+          "WeightKg": 1508,
+          "VolumeM3": 1.3085
+        }
+      ]
+    },
+    {
+      "DocNum": 1118,
+      "CardName": "Union Properties",
+      "WarehouseCode": "WH-AUH-01",
+      "WeightKg": 13800,
+      "VolumeM3": 11.0602,
+      "City": "Abu Dhabi",
+      "Street": "Khalifa Industrial Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 10,
+          "WeightKg": 1450,
+          "VolumeM3": 1.4409
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 11,
+          "WeightKg": 8030,
+          "VolumeM3": 5.8367
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 8,
+          "WeightKg": 1440,
+          "VolumeM3": 1.3573
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 9,
+          "WeightKg": 2880,
+          "VolumeM3": 2.4253
+        }
+      ]
+    },
+    {
+      "DocNum": 1119,
+      "CardName": "Nakheel PJSC",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 14545,
+      "VolumeM3": 11.0478,
+      "City": "Fujairah",
+      "Street": "Al Hayl Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 11,
+          "WeightKg": 1760,
+          "VolumeM3": 1.3638
+        },
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 7,
+          "WeightKg": 980,
+          "VolumeM3": 0.7905
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 12,
+          "WeightKg": 1500,
+          "VolumeM3": 1.3669
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 4,
+          "WeightKg": 880,
+          "VolumeM3": 0.623
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 8,
+          "WeightKg": 960,
+          "VolumeM3": 0.4965
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 14,
+          "WeightKg": 5600,
+          "VolumeM3": 4.2756
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 12,
+          "WeightKg": 1440,
+          "VolumeM3": 1.1465
+        },
+        {
+          "ItemCode": "STL-CHS-90MM",
+          "ItemName": "Circular Hollow Section 88.9mm",
+          "Quantity": 19,
+          "WeightKg": 1425,
+          "VolumeM3": 0.985
+        }
+      ]
+    },
+    {
+      "DocNum": 1120,
+      "CardName": "Acciona Infraestructuras",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 16640,
+      "VolumeM3": 10.1351,
+      "City": "Fujairah",
+      "Street": "Fujairah Free Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 6,
+          "WeightKg": 10800,
+          "VolumeM3": 8.3086
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 8,
+          "WeightKg": 5840,
+          "VolumeM3": 1.8265
+        }
+      ]
+    },
+    {
+      "DocNum": 1121,
+      "CardName": "Petrofac International",
+      "WarehouseCode": "WH-AUH-01",
+      "WeightKg": 15505,
+      "VolumeM3": 12.3509,
+      "City": "Abu Dhabi",
+      "Street": "Khalifa Industrial Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 6,
+          "WeightKg": 2160,
+          "VolumeM3": 2.16
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 4,
+          "WeightKg": 480,
+          "VolumeM3": 0.2434
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 4,
+          "WeightKg": 600,
+          "VolumeM3": 0.3932
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 7,
+          "WeightKg": 6790,
+          "VolumeM3": 6.2371
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 15,
+          "WeightKg": 3300,
+          "VolumeM3": 2.4177
+        },
+        {
+          "ItemCode": "SCF-PLATFORM-6M",
+          "ItemName": "Working Platform 6.0m",
+          "Quantity": 29,
+          "WeightKg": 2175,
+          "VolumeM3": 0.8995
+        }
+      ]
+    },
+    {
+      "DocNum": 1122,
+      "CardName": "Union Properties",
+      "WarehouseCode": "WH-FUJ-01",
+      "WeightKg": 16066,
+      "VolumeM3": 10.3419,
+      "City": "Fujairah",
+      "Street": "Al Hayl Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 13,
+          "WeightKg": 2340,
+          "VolumeM3": 1.8807
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 12,
+          "WeightKg": 1680,
+          "VolumeM3": 0.8391
+        },
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 15,
+          "WeightKg": 3300,
+          "VolumeM3": 2.027
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 6,
+          "WeightKg": 5820,
+          "VolumeM3": 3.0068
+        },
+        {
+          "ItemCode": "SCF-TRUSS-3M",
+          "ItemName": "Truss Ledger 3.0m",
+          "Quantity": 77,
+          "WeightKg": 2926,
+          "VolumeM3": 2.5883
+        }
+      ]
+    },
+    {
+      "DocNum": 1123,
+      "CardName": "Ramboll Group",
+      "WarehouseCode": "WH-AUH-02",
+      "WeightKg": 13890,
+      "VolumeM3": 9.2084,
+      "City": "Abu Dhabi",
+      "Street": "Zayed City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 9,
+          "WeightKg": 1080,
+          "VolumeM3": 0.7042
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 5,
+          "WeightKg": 2400,
+          "VolumeM3": 2.0924
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 12,
+          "WeightKg": 1800,
+          "VolumeM3": 0.7144
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 3,
+          "WeightKg": 315,
+          "VolumeM3": 0.2359
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 8,
+          "WeightKg": 1440,
+          "VolumeM3": 0.991
+        },
+        {
+          "ItemCode": "STL-ANG-100X100",
+          "ItemName": "Steel Angle Bar 100x100x10mm",
+          "Quantity": 14,
+          "WeightKg": 2240,
+          "VolumeM3": 1.9984
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 4,
+          "WeightKg": 720,
+          "VolumeM3": 0.3597
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 5,
+          "WeightKg": 600,
+          "VolumeM3": 0.2946
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 11,
+          "WeightKg": 2420,
+          "VolumeM3": 0.9756
+        },
+        {
+          "ItemCode": "SCF-PROP-ACROW-6M",
+          "ItemName": "Acrow Prop Size 4 (4.6-6.0m)",
+          "Quantity": 25,
+          "WeightKg": 875,
+          "VolumeM3": 0.8422
+        }
+      ]
+    },
+    {
+      "DocNum": 1124,
+      "CardName": "Aldar Properties",
+      "WarehouseCode": "WH-AJM-02",
+      "WeightKg": 15390,
+      "VolumeM3": 10.4187,
+      "City": "Sharjah",
+      "Street": "Industrial Area 2",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 9,
+          "WeightKg": 10800,
+          "VolumeM3": 7.0352
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 9,
+          "WeightKg": 1170,
+          "VolumeM3": 1.1655
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 6,
+          "WeightKg": 1080,
+          "VolumeM3": 0.3453
+        },
+        {
+          "ItemCode": "STL-SHT-CR-3MM",
+          "ItemName": "Cold Rolled Steel Sheet 3mm",
+          "Quantity": 36,
+          "WeightKg": 2340,
+          "VolumeM3": 1.8727
+        }
+      ]
+    },
+    {
+      "DocNum": 1125,
+      "CardName": "DAMAC Properties",
+      "WarehouseCode": "WH-AUH-01",
+      "WeightKg": 14455,
+      "VolumeM3": 9.3385,
+      "City": "Abu Dhabi",
+      "Street": "Khalifa Industrial Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 10,
+          "WeightKg": 3100,
+          "VolumeM3": 2.4405
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 15,
+          "WeightKg": 1800,
+          "VolumeM3": 1.429
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 12,
+          "WeightKg": 1680,
+          "VolumeM3": 0.5102
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 3,
+          "WeightKg": 5400,
+          "VolumeM3": 2.5874
+        },
+        {
+          "ItemCode": "STL-BAR-ROUND-40",
+          "ItemName": "Round Steel Bar 40mm",
+          "Quantity": 55,
+          "WeightKg": 2475,
+          "VolumeM3": 2.3714
+        }
+      ]
+    },
+    {
+      "DocNum": 1126,
+      "CardName": "COWI A/S",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14030,
+      "VolumeM3": 7.734,
+      "City": "Ajman",
+      "Street": "Al Jurf Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 7,
+          "WeightKg": 910,
+          "VolumeM3": 0.3506
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 9,
+          "WeightKg": 1170,
+          "VolumeM3": 0.8743
+        },
+        {
+          "ItemCode": "STL-BEA-UB-254",
+          "ItemName": "Universal Beam 254x146x31",
+          "Quantity": 10,
+          "WeightKg": 3100,
+          "VolumeM3": 1.0663
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 10,
+          "WeightKg": 1800,
+          "VolumeM3": 1.2919
+        },
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 6,
+          "WeightKg": 5100,
+          "VolumeM3": 3.3699
+        },
+        {
+          "ItemCode": "SCF-RNG-BRD-3M",
+          "ItemName": "Ringlock Steel Board 3.0m",
+          "Quantity": 65,
+          "WeightKg": 1950,
+          "VolumeM3": 0.781
+        }
+      ]
+    },
+    {
+      "DocNum": 1127,
+      "CardName": "Shapoorji Pallonji & Co",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 14140,
+      "VolumeM3": 11.0744,
+      "City": "Ras Al Khaimah",
+      "Street": "Saif Zone",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 9,
+          "WeightKg": 2250,
+          "VolumeM3": 0.97
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 4,
+          "WeightKg": 500,
+          "VolumeM3": 0.3332
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 4,
+          "WeightKg": 720,
+          "VolumeM3": 0.6965
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 11,
+          "WeightKg": 10670,
+          "VolumeM3": 9.0747
+        }
+      ]
+    },
+    {
+      "DocNum": 1128,
+      "CardName": "Subsea 7",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14318,
+      "VolumeM3": 10.2322,
+      "City": "Ajman",
+      "Street": "Emirates City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 9,
+          "WeightKg": 3600,
+          "VolumeM3": 3.5522
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 14,
+          "WeightKg": 1470,
+          "VolumeM3": 0.4577
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 4,
+          "WeightKg": 600,
+          "VolumeM3": 0.3248
+        },
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 13,
+          "WeightKg": 2860,
+          "VolumeM3": 2.1158
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 12,
+          "WeightKg": 1440,
+          "VolumeM3": 1.1731
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 5,
+          "WeightKg": 1100,
+          "VolumeM3": 0.3641
+        },
+        {
+          "ItemCode": "SCF-END-FENCE",
+          "ItemName": "Scaffold End Fence Panel",
+          "Quantity": 72,
+          "WeightKg": 1584,
+          "VolumeM3": 1.1879
+        },
+        {
+          "ItemCode": "SCF-DECK-ALLOY-3M",
+          "ItemName": "Alloy Deck 3.0m",
+          "Quantity": 64,
+          "WeightKg": 1664,
+          "VolumeM3": 1.0566
+        }
+      ]
+    },
+    {
+      "DocNum": 1129,
+      "CardName": "JM AB",
+      "WarehouseCode": "WH-AJM-01",
+      "WeightKg": 15676,
+      "VolumeM3": 8.9512,
+      "City": "Sharjah",
+      "Street": "Al Nahda",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 7,
+          "WeightKg": 8400,
+          "VolumeM3": 3.7054
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 6,
+          "WeightKg": 900,
+          "VolumeM3": 0.828
+        },
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 7,
+          "WeightKg": 1540,
+          "VolumeM3": 1.0176
+        },
+        {
+          "ItemCode": "SCF-FACADE-6M",
+          "ItemName": "Facade Scaffold Unit 6.0m",
+          "Quantity": 11,
+          "WeightKg": 1980,
+          "VolumeM3": 1.2501
+        },
+        {
+          "ItemCode": "STL-REB-20MM",
+          "ItemName": "Steel Rebar 20mm Diameter",
+          "Quantity": 68,
+          "WeightKg": 2856,
+          "VolumeM3": 2.1501
+        }
+      ]
+    },
+    {
+      "DocNum": 1130,
+      "CardName": "Eiffage Construction",
+      "WarehouseCode": "WH-AUH-02",
+      "WeightKg": 14145,
+      "VolumeM3": 10.3732,
+      "City": "Abu Dhabi",
+      "Street": "Mussafah Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 4,
+          "WeightKg": 420,
+          "VolumeM3": 0.361
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 9,
+          "WeightKg": 4320,
+          "VolumeM3": 3.5438
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 9,
+          "WeightKg": 1980,
+          "VolumeM3": 1.0639
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 10,
+          "WeightKg": 2400,
+          "VolumeM3": 1.8827
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 15,
+          "WeightKg": 2700,
+          "VolumeM3": 1.7914
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.5X2M",
+          "ItemName": "Mobile Scaffold Tower 1.5x2.0m",
+          "Quantity": 4,
+          "WeightKg": 600,
+          "VolumeM3": 0.4854
+        },
+        {
+          "ItemCode": "STL-CHS-90MM",
+          "ItemName": "Circular Hollow Section 88.9mm",
+          "Quantity": 23,
+          "WeightKg": 1725,
+          "VolumeM3": 1.245
+        }
+      ]
+    },
+    {
+      "DocNum": 1131,
+      "CardName": "MAG Property Development",
+      "WarehouseCode": "WH-AJM-02",
+      "WeightKg": 14160,
+      "VolumeM3": 9.5131,
+      "City": "Sharjah",
+      "Street": "Industrial Area 2",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-TBE-200X100",
+          "ItemName": "Steel Rectangular Tube 200x100mm",
+          "Quantity": 13,
+          "WeightKg": 2860,
+          "VolumeM3": 1.4499
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 12,
+          "WeightKg": 1680,
+          "VolumeM3": 1.348
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 14,
+          "WeightKg": 3360,
+          "VolumeM3": 2.0521
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 3,
+          "WeightKg": 420,
+          "VolumeM3": 0.3397
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 8,
+          "WeightKg": 2480,
+          "VolumeM3": 1.8114
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 7,
+          "WeightKg": 3360,
+          "VolumeM3": 2.512
+        }
+      ]
+    },
+    {
+      "DocNum": 1132,
+      "CardName": "Bouygues Construction",
+      "WarehouseCode": "WH-DXB-01",
+      "WeightKg": 15235,
+      "VolumeM3": 9.5488,
+      "City": "Dubai",
+      "Street": "Dubai Investment Park",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 11,
+          "WeightKg": 1980,
+          "VolumeM3": 1.7043
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 5,
+          "WeightKg": 625,
+          "VolumeM3": 0.6043
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 12,
+          "WeightKg": 1440,
+          "VolumeM3": 1.1155
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 3,
+          "WeightKg": 420,
+          "VolumeM3": 0.1631
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 15,
+          "WeightKg": 1950,
+          "VolumeM3": 1.4656
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 9,
+          "WeightKg": 1620,
+          "VolumeM3": 1.5627
+        },
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 6,
+          "WeightKg": 7200,
+          "VolumeM3": 2.9333
+        }
+      ]
+    },
+    {
+      "DocNum": 1133,
+      "CardName": "Fluor Corporation",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 13140,
+      "VolumeM3": 7.5754,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Ghail Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BEA-UB-203",
+          "ItemName": "Universal Beam 203x133x25",
+          "Quantity": 5,
+          "WeightKg": 1250,
+          "VolumeM3": 0.8383
+        },
+        {
+          "ItemCode": "STL-PIP-150MM",
+          "ItemName": "Steel Pipe 150mm OD Schedule 40",
+          "Quantity": 8,
+          "WeightKg": 2560,
+          "VolumeM3": 1.932
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 4,
+          "WeightKg": 520,
+          "VolumeM3": 0.1654
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 10,
+          "WeightKg": 2400,
+          "VolumeM3": 1.5898
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 11,
+          "WeightKg": 3410,
+          "VolumeM3": 1.3041
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 7,
+          "WeightKg": 840,
+          "VolumeM3": 0.666
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 6,
+          "WeightKg": 2160,
+          "VolumeM3": 1.0798
+        }
+      ]
+    },
+    {
+      "DocNum": 1134,
+      "CardName": "Belhasa Projects",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 14630,
+      "VolumeM3": 9.6191,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Hamra Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 5,
+          "WeightKg": 700,
+          "VolumeM3": 0.6504
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 4,
+          "WeightKg": 560,
+          "VolumeM3": 0.4857
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 8,
+          "WeightKg": 1440,
+          "VolumeM3": 1.1052
+        },
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 4,
+          "WeightKg": 580,
+          "VolumeM3": 0.3973
+        },
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 7,
+          "WeightKg": 980,
+          "VolumeM3": 0.878
+        },
+        {
+          "ItemCode": "STL-SHT-HR-8MM",
+          "ItemName": "Hot Rolled Steel Sheet 8mm",
+          "Quantity": 14,
+          "WeightKg": 2030,
+          "VolumeM3": 1.9267
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 5,
+          "WeightKg": 2000,
+          "VolumeM3": 1.7112
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 6,
+          "WeightKg": 4380,
+          "VolumeM3": 1.6861
+        },
+        {
+          "ItemCode": "SCF-FRM-BRD-3.0M",
+          "ItemName": "Scaffold Board 3.0m x 225mm",
+          "Quantity": 70,
+          "WeightKg": 1960,
+          "VolumeM3": 0.7785
+        }
+      ]
+    },
+    {
+      "DocNum": 1135,
+      "CardName": "Khatib & Alami",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 15722,
+      "VolumeM3": 9.9039,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Ghail Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 10,
+          "WeightKg": 1800,
+          "VolumeM3": 1.5526
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 5,
+          "WeightKg": 4850,
+          "VolumeM3": 3.5326
+        },
+        {
+          "ItemCode": "STL-BM-400X400",
+          "ItemName": "Steel H-Beam 400x400mm",
+          "Quantity": 4,
+          "WeightKg": 7200,
+          "VolumeM3": 3.7188
+        },
+        {
+          "ItemCode": "SCF-TRUSS-6M",
+          "ItemName": "Truss Ledger 6.0m",
+          "Quantity": 26,
+          "WeightKg": 1872,
+          "VolumeM3": 1.0999
+        }
+      ]
+    },
+    {
+      "DocNum": 1136,
+      "CardName": "Al Futtaim Carillion",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 14480,
+      "VolumeM3": 12.1279,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Hamra Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 10,
+          "WeightKg": 1400,
+          "VolumeM3": 1.0865
+        },
+        {
+          "ItemCode": "STL-PIP-100MM",
+          "ItemName": "Steel Pipe 100mm OD Schedule 40",
+          "Quantity": 5,
+          "WeightKg": 900,
+          "VolumeM3": 0.8231
+        },
+        {
+          "ItemCode": "SCF-TOWER-1.2X2M",
+          "ItemName": "Mobile Scaffold Tower 1.2x2.0m",
+          "Quantity": 11,
+          "WeightKg": 1320,
+          "VolumeM3": 0.9872
+        },
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 15,
+          "WeightKg": 3600,
+          "VolumeM3": 3.515
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 11,
+          "WeightKg": 5280,
+          "VolumeM3": 4.95
+        },
+        {
+          "ItemCode": "STL-PIP-50MM",
+          "ItemName": "Steel Pipe 50mm OD Schedule 40",
+          "Quantity": 36,
+          "WeightKg": 1980,
+          "VolumeM3": 0.7661
+        }
+      ]
+    },
+    {
+      "DocNum": 1137,
+      "CardName": "Al Naboodah Construction Group",
+      "WarehouseCode": "WH-AJM-02",
+      "WeightKg": 14465,
+      "VolumeM3": 9.1363,
+      "City": "Sharjah",
+      "Street": "Industrial Area 1",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 14,
+          "WeightKg": 4340,
+          "VolumeM3": 1.987
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 7,
+          "WeightKg": 5110,
+          "VolumeM3": 4.5589
+        },
+        {
+          "ItemCode": "STL-REB-32MM",
+          "ItemName": "Steel Rebar 32mm Diameter",
+          "Quantity": 6,
+          "WeightKg": 630,
+          "VolumeM3": 0.4691
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 3,
+          "WeightKg": 2910,
+          "VolumeM3": 1.128
+        },
+        {
+          "ItemCode": "SCF-PLANK-STL-3M",
+          "ItemName": "Steel Scaffold Plank 3.0m",
+          "Quantity": 59,
+          "WeightKg": 1475,
+          "VolumeM3": 0.9933
+        }
+      ]
+    },
+    {
+      "DocNum": 1138,
+      "CardName": "Alfanar Construction",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14338,
+      "VolumeM3": 8.1657,
+      "City": "Ajman",
+      "Street": "Al Nuaimiya",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-PLT-20MM",
+          "ItemName": "Steel Plate 20mm Thick",
+          "Quantity": 13,
+          "WeightKg": 3120,
+          "VolumeM3": 2.2999
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR",
+          "ItemName": "Stair Tower Unit 2.0m",
+          "Quantity": 12,
+          "WeightKg": 2640,
+          "VolumeM3": 1.4159
+        },
+        {
+          "ItemCode": "SCF-UNIT-STAIR-3M",
+          "ItemName": "Stair Tower Unit 3.0m",
+          "Quantity": 12,
+          "WeightKg": 3720,
+          "VolumeM3": 1.2233
+        },
+        {
+          "ItemCode": "SCF-UNIT-ACCESS",
+          "ItemName": "Access Unit Complete",
+          "Quantity": 3,
+          "WeightKg": 540,
+          "VolumeM3": 0.1927
+        },
+        {
+          "ItemCode": "STL-BEA-UB-305",
+          "ItemName": "Universal Beam 305x165x40",
+          "Quantity": 7,
+          "WeightKg": 2800,
+          "VolumeM3": 1.9705
+        },
+        {
+          "ItemCode": "SCF-CUP-STD-3M",
+          "ItemName": "Cuplock Standard 3.0m Vertical",
+          "Quantity": 69,
+          "WeightKg": 1518,
+          "VolumeM3": 1.0634
+        }
+      ]
+    },
+    {
+      "DocNum": 1139,
+      "CardName": "Al Kharafi National",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 16305,
+      "VolumeM3": 10.4025,
+      "City": "Ajman",
+      "Street": "Emirates City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 13,
+          "WeightKg": 1820,
+          "VolumeM3": 1.7648
+        },
+        {
+          "ItemCode": "STL-COL-UC-203",
+          "ItemName": "Universal Column 203x203x46",
+          "Quantity": 6,
+          "WeightKg": 2760,
+          "VolumeM3": 2.3827
+        },
+        {
+          "ItemCode": "STL-CHS-115MM",
+          "ItemName": "Circular Hollow Section 114.3mm",
+          "Quantity": 9,
+          "WeightKg": 1125,
+          "VolumeM3": 0.5717
+        },
+        {
+          "ItemCode": "STL-BM-300X300",
+          "ItemName": "Steel H-Beam 300x300mm",
+          "Quantity": 5,
+          "WeightKg": 6000,
+          "VolumeM3": 3.6463
+        },
+        {
+          "ItemCode": "STL-COL-UC-203",
+          "ItemName": "Universal Column 203x203x46",
+          "Quantity": 10,
+          "WeightKg": 4600,
+          "VolumeM3": 2.037
+        }
+      ]
+    },
+    {
+      "DocNum": 1140,
+      "CardName": "JM AB",
+      "WarehouseCode": "WH-AJM-03",
+      "WeightKg": 14230,
+      "VolumeM3": 10.4253,
+      "City": "Ajman",
+      "Street": "Emirates City",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-CAB-20MM",
+          "ItemName": "Steel Cable 20mm 6x19 IWRC",
+          "Quantity": 8,
+          "WeightKg": 1760,
+          "VolumeM3": 1.7297
+        },
+        {
+          "ItemCode": "STL-PLT-10MM",
+          "ItemName": "Steel Plate 10mm Thick",
+          "Quantity": 15,
+          "WeightKg": 1800,
+          "VolumeM3": 1.0069
+        },
+        {
+          "ItemCode": "STL-COL-UC-305",
+          "ItemName": "Universal Column 305x305x97",
+          "Quantity": 4,
+          "WeightKg": 3880,
+          "VolumeM3": 2.0307
+        },
+        {
+          "ItemCode": "STL-GRA-32X5",
+          "ItemName": "Steel Grating 32x5mm Bar",
+          "Quantity": 4,
+          "WeightKg": 560,
+          "VolumeM3": 0.2728
+        },
+        {
+          "ItemCode": "STL-CHN-25MM",
+          "ItemName": "Steel Chain Link 25mm",
+          "Quantity": 5,
+          "WeightKg": 650,
+          "VolumeM3": 0.239
+        },
+        {
+          "ItemCode": "STL-TBE-150X75",
+          "ItemName": "Steel Rectangular Tube 150x75mm",
+          "Quantity": 9,
+          "WeightKg": 1260,
+          "VolumeM3": 1.1402
+        },
+        {
+          "ItemCode": "STL-PIP-200MM",
+          "ItemName": "Steel Pipe 200mm OD Schedule 40",
+          "Quantity": 6,
+          "WeightKg": 2880,
+          "VolumeM3": 2.8048
+        },
+        {
+          "ItemCode": "SCF-SPAN-3M",
+          "ItemName": "Scaffold Span Frame 3.0m",
+          "Quantity": 32,
+          "WeightKg": 1440,
+          "VolumeM3": 1.2012
+        }
+      ]
+    },
+    {
+      "DocNum": 1141,
+      "CardName": "Al Ghurair Construction",
+      "WarehouseCode": "WH-RAK-01",
+      "WeightKg": 15020,
+      "VolumeM3": 12.7627,
+      "City": "Ras Al Khaimah",
+      "Street": "Al Ghail Industrial Area",
+      "Status": "Open",
+      "DocumentLines": [
+        {
+          "ItemCode": "STL-BM-200X200",
+          "ItemName": "Steel H-Beam 200x200mm",
+          "Quantity": 4,
+          "WeightKg": 3400,
+          "VolumeM3": 3.2697
+        },
+        {
+          "ItemCode": "STL-COL-UC-254",
+          "ItemName": "Universal Column 254x254x73",
+          "Quantity": 10,
+          "WeightKg": 7300,
+          "VolumeM3": 7.1298
+        },
+        {
+          "ItemCode": "STL-PLT-30MM",
+          "ItemName": "Steel Plate 30mm Thick",
+          "Quantity": 12,
+          "WeightKg": 4320,
+          "VolumeM3": 2.3632
+        }
+      ]
+    }
+  ]
+}

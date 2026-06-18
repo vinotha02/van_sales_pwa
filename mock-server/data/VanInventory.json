@@ -1,0 +1,16 @@
+{
+  "VanInventory": [
+    { "ItemCode": "WHT-ATTA-10K", "ItemName": "Chakki Fresh Atta 10kg", "UnitPrice": 30.0, "InStock": 25, "Category": "Wheat & Foodstuffs" },
+    { "ItemCode": "WHT-ATTA-5K", "ItemName": "Chakki Fresh Atta 5kg", "UnitPrice": 18.0, "InStock": 40, "Category": "Wheat & Foodstuffs" },
+    { "ItemCode": "WHT-FLOUR-1K", "ItemName": "Whole Wheat Flour 1kg", "UnitPrice": 5.0, "InStock": 60, "Category": "Wheat & Foodstuffs" },
+    { "ItemCode": "WHT-MAIDA-1K", "ItemName": "Wheat Maida 1kg", "UnitPrice": 5.0, "InStock": 50, "Category": "Wheat & Foodstuffs" },
+    { "ItemCode": "WHT-SUJI-1K", "ItemName": "Wheat Semolina (Suji) 1kg", "UnitPrice": 6.0, "InStock": 30, "Category": "Wheat & Foodstuffs" },
+    { "ItemCode": "ITEM-001", "ItemName": "Organic Whole Milk 1L", "UnitPrice": 8.5, "InStock": 15, "Category": "Wheat & Foodstuffs" },
+    { "ItemCode": "ITEM-004", "ItemName": "Fresh Labneh 500g", "UnitPrice": 12.0, "InStock": 20, "Category": "Wheat & Foodstuffs" },
+    { "ItemCode": "ITEM-008", "ItemName": "Premium Apple Juice 1L", "UnitPrice": 9.0, "InStock": 18, "Category": "Wheat & Foodstuffs" },
+    { "ItemCode": "STL-CHN-25MM", "ItemName": "Steel Chain Link 25mm", "UnitPrice": 130.0, "InStock": 10, "Category": "Industrial Materials" },
+    { "ItemCode": "STL-REB-32MM", "ItemName": "Steel Rebar 32mm Diameter", "UnitPrice": 105.0, "InStock": 15, "Category": "Industrial Materials" },
+    { "ItemCode": "SCF-TOWER-1.2X2M", "ItemName": "Mobile Scaffold Tower 1.2x2.0m", "UnitPrice": 450.0, "InStock": 2, "Category": "Industrial Materials" },
+    { "ItemCode": "SCF-PLANK-ALU-4M", "ItemName": "Aluminum Scaffold Plank 4.0m", "UnitPrice": 85.0, "InStock": 8, "Category": "Industrial Materials" }
+  ]
+}

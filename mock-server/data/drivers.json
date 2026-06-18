@@ -1,0 +1,22 @@
+{
+  "drivers": [
+    {
+      "id": "drv-001",
+      "name": "Mohammed Khan",
+      "phone": "+971-50-111-2222",
+      "status": "active",
+      "assignedTruck": "D 12345",
+      "visaExpiry": "2026-10-15",
+      "rating": 4.8
+    },
+    {
+      "id": "drv-002",
+      "name": "Rajan Singh",
+      "phone": "+971-50-222-3333",
+      "status": "active",
+      "assignedTruck": "D 54321",
+      "visaExpiry": "2026-05-09",
+      "rating": 4.5
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "DeliveryNotes": [
+    {
+      "DocEntry": 800001,
+      "DocNum": "RT-2026-001",
+      "Object": "DeliveryNotes",
+      "DocDate": "2026-06-04",
+      "TaxDate": "2026-06-04",
+      "DocDueDate": "2026-06-04",
+      "CardName": "Emirates Engineering Center",
+      "DocumentStatus": "bost_Open",
+      "DeliveryStatus": "DriverAssigned",
+      "WorkflowStatus": "AwaitingDriverPickup",
+      "U_PlanId": "PLAN-2026-001",
+      "U_RouteId": "mock-1",
+      "U_PickListNo": "PL-MOCK-99",
+      "U_PickListEntry": 99,
+      "U_TruckId": "TRK-001",
+      "U_DriverId": "drv-001",
+      "U_DriverName": "Mohammed Khan",
+      "Comments": "Seeded mock delivery stop 1",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "BaseType": 17,
+          "BaseEntry": 1001,
+          "BaseLine": 0,
+          "ItemCode": "FG-001",
+          "ItemDescription": "Chakki Fresh Atta 10kg",
+          "Quantity": 50,
+          "WarehouseCode": "WH-YARD-01",
+          "TaxCode": "VAT5"
+        },
+        {
+          "LineNum": 1,
+          "BaseType": 17,
+          "BaseEntry": 1001,
+          "BaseLine": 1,
+          "ItemCode": "FG-002",
+          "ItemDescription": "Whole Wheat Flour 5kg",
+          "Quantity": 30,
+          "WarehouseCode": "WH-YARD-01",
+          "TaxCode": "VAT5"
+        },
+        {
+          "LineNum": 2,
+          "BaseType": 17,
+          "BaseEntry": 1001,
+          "BaseLine": 2,
+          "ItemCode": "FG-003",
+          "ItemDescription": "Maida 2kg",
+          "Quantity": 20,
+          "WarehouseCode": "WH-YARD-01",
+          "TaxCode": "VAT5"
+        }
+      ],
+      "Attachments2_Lines": [],
+      "CreatedAt": "2026-06-04T12:00:00.000Z"
+    },
+    {
+      "DocEntry": 800002,
+      "DocNum": "RT-2026-002",
+      "Object": "DeliveryNotes",
+      "DocDate": "2026-06-04",
+      "TaxDate": "2026-06-04",
+      "DocDueDate": "2026-06-04",
+      "CardName": "Abu Dhabi National Oil Company",
+      "DocumentStatus": "bost_Open",
+      "DeliveryStatus": "PickedUp",
+      "WorkflowStatus": "InTransit",
+      "U_PlanId": "PLAN-2026-002",
+      "U_RouteId": "mock-2",
+      "U_PickListNo": "PL-MOCK-98",
+      "U_PickListEntry": 98,
+      "U_TruckId": "TRK-002",
+      "U_DriverId": "drv-001",
+      "U_DriverName": "Mohammed Khan",
+      "Comments": "Seeded mock delivery stop 2",
+      "DocumentLines": [
+        {
+          "LineNum": 0,
+          "BaseType": 17,
+          "BaseEntry": 1002,
+          "BaseLine": 0,
+          "ItemCode": "FG-004",
+          "ItemDescription": "Suji 1kg",
+          "Quantity": 100,
+          "WarehouseCode": "WH-YARD-01",
+          "TaxCode": "VAT5"
+        }
+      ],
+      "Attachments2_Lines": [],
+      "CreatedAt": "2026-06-04T12:00:00.000Z"
+    }
+  ]
+}

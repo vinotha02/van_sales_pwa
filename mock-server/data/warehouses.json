@@ -1,0 +1,18 @@
+{
+  "warehouses": [
+    {
+      "WarehouseCode": "WH-DXB-01",
+      "WarehouseName": "Jebel Ali Industrial Depot",
+      "Emirate": "Dubai",
+      "Latitude": 24.9857,
+      "Longitude": 55.0275
+    },
+    {
+      "WarehouseCode": "WH-AJM-01",
+      "WarehouseName": "Ajman Steel Yard",
+      "Emirate": "Ajman",
+      "Latitude": 25.4052,
+      "Longitude": 55.5136
+    }
+  ]
+}

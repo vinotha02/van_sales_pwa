@@ -1,0 +1,84 @@
+{
+  "dashboard": {
+    "week": {
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "label": "Week 17, 2026"
+    },
+    "stats": {
+      "pending": { "count": 3, "change": -1, "changePercent": -25, "trend": "down" },
+      "approved": { "count": 8, "change": 2, "changePercent": 33, "trend": "up" },
+      "executed": { "count": 12, "change": 4, "changePercent": 50, "trend": "up" },
+      "total": { "count": 23, "change": 5, "changePercent": 28, "trend": "up" }
+    },
+    "kpis": {
+      "totalDistanceKm": 1247,
+      "totalFuelCost": 10890,
+      "onTimePercent": 94.5,
+      "activeTrucks": 18,
+      "capacityUtilization": 78.3,
+      "co2EmissionKg": 890
+    },
+    "fleetStatus": { "active": 18, "idle": 2, "maintenance": 0, "total": 20 },
+    "recentPlans": [
+      {
+        "id": "plan-0427-001",
+        "name": "Week 17 - Dubai Routes",
+        "depot": "Dubai Main Depot",
+        "status": "pending",
+        "truckCount": 3,
+        "orderCount": 2,
+        "totalDistanceKm": 142,
+        "createdAt": "2026-04-26T23:40:00Z",
+        "createdBy": "Ahmed Al Mulla"
+      },
+      {
+        "id": "plan-0427-002",
+        "name": "Week 17 - Ajman Routes",
+        "depot": "Ajman Distribution Center",
+        "status": "approved",
+        "truckCount": 2,
+        "orderCount": 2,
+        "totalDistanceKm": 98,
+        "createdAt": "2026-04-26T20:00:00Z",
+        "createdBy": "Mohammed Khan"
+      }
+    ],
+    "alerts": [
+      {
+        "id": "alert-001",
+        "type": "document_expiry",
+        "severity": "high",
+        "title": "Driver Visa Expiring",
+        "message": "Rajan Singh's visa expires in 7 days (2026-05-09)",
+        "entityType": "driver",
+        "entityId": "drv-002",
+        "createdAt": "2026-05-02T08:00:00Z"
+      },
+      {
+        "id": "alert-002",
+        "type": "stock_shortfall",
+        "severity": "medium",
+        "title": "Stock Shortfall: RAK Depot",
+        "message": "ST-BM-300X150 only 70 PCS available, 110 required",
+        "entityType": "depot",
+        "entityId": "depot-rak",
+        "createdAt": "2026-05-02T07:30:00Z"
+      }
+    ],
+    "liveFleet": [
+      {
+        "truckId": "trk-001",
+        "plateNumber": "D 12345",
+        "driverName": "Mohammed Khan",
+        "status": "in_transit",
+        "gpsLat": 25.1972,
+        "gpsLng": 55.2744,
+        "currentStop": 1,
+        "totalStops": 3,
+        "nextStopEta": "10:30",
+        "routeProgress": 35
+      }
+    ]
+  }
+}

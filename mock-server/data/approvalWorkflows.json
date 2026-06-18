@@ -1,0 +1,92 @@
+{
+  "approvalWorkflows": [
+    {
+      "id": "wf-delivery-plan-default",
+      "companyId": "LOCAL_MOCK",
+      "name": "Default Delivery Plan Approval",
+      "description": "Human-in-loop approval flow for SAP B1 delivery planning, picking, driver execution, and POD closure.",
+      "objectType": "delivery_plan",
+      "status": "active",
+      "sapMode": "local-service-layer-mock",
+      "sapEndpoint": "/api",
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "updatedAt": "2026-05-06T00:00:00.000Z",
+      "rules": {
+        "autoCreatePickLists": true,
+        "createPurchaseRequestWhenOutsourced": true,
+        "blockDeliveryUntilPickingComplete": true,
+        "blockPodUntilDriverPickup": true,
+        "requirePodForDeliveryClosure": true,
+        "outsourcingApprovalThresholdAed": 2500
+      },
+      "steps": [
+        {
+          "id": "wf-step-planner-review",
+          "stepOrder": 1,
+          "stage": "planner_review",
+          "title": "Planner reviews suggested plan",
+          "description": "Planner checks sales order scope, stock availability, route suggestion, capacity warnings, and SAP document preview.",
+          "assignedRole": "planner",
+          "requiredDesignation": "Delivery Planner",
+          "assignedUserId": "usr-planner-001",
+          "assignedUserName": "Ahmed Al Mulla",
+          "actionLabel": "Submit for Manager Approval",
+          "statusAfterAction": "pending_manager_approval",
+          "required": true
+        },
+        {
+          "id": "wf-step-manager-approval",
+          "stepOrder": 2,
+          "stage": "manager_approval",
+          "title": "Manager approves plan and outsourcing cost",
+          "description": "Manager approves route plan, vehicle assignment, outsourcing purchase request, and downstream SAP document creation.",
+          "assignedRole": "manager",
+          "requiredDesignation": "Logistics Manager",
+          "assignedUserId": "usr-manager-001",
+          "assignedUserName": "Fatima Al Zaabi",
+          "approvalLimitAed": 25000,
+          "actionLabel": "Approve and Create SAP Documents",
+          "statusAfterAction": "approved",
+          "createsSapObjects": [
+            "PickLists",
+            "PurchaseRequests"
+          ],
+          "required": true
+        },
+        {
+          "id": "wf-step-warehouse-picking",
+          "stepOrder": 3,
+          "stage": "warehouse_picking",
+          "title": "Warehouse confirms picking",
+          "description": "Warehouse supervisor confirms picked quantities before delivery document creation is allowed.",
+          "assignedRole": "warehouse",
+          "requiredDesignation": "Warehouse Supervisor",
+          "assignedUserId": "usr-warehouse-001",
+          "assignedUserName": "Khalid Al Mansouri",
+          "actionLabel": "Confirm Picked",
+          "statusAfterAction": "picked",
+          "createsSapObjects": [],
+          "required": true
+        },
+        {
+          "id": "wf-step-driver-execution",
+          "stepOrder": 4,
+          "stage": "driver_execution",
+          "title": "Driver confirms pickup, delivery, and POD",
+          "description": "Driver accepts responsibility, confirms pickup, captures POD photo/signature/GPS, and closes delivery.",
+          "assignedRole": "driver",
+          "requiredDesignation": "Delivery Driver",
+          "assignedUserId": "drv-001",
+          "assignedUserName": "Mohammed Khan",
+          "actionLabel": "Confirm Pickup and Submit POD",
+          "statusAfterAction": "delivered",
+          "createsSapObjects": [
+            "DeliveryNotes",
+            "Attachments2"
+          ],
+          "required": true
+        }
+      ]
+    }
+  ]
+}

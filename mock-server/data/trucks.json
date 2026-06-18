@@ -1,0 +1,52 @@
+{
+  "trucks": [
+    {
+      "TruckId": "trk-001",
+      "PlateNumber": "D 12345",
+      "Type": "Flatbed",
+      "CapacityTons": 15,
+      "Status": "Available",
+      "WarehouseCode": "WH-DXB-01"
+    },
+    {
+      "TruckId": "trk-002",
+      "PlateNumber": "D 54321",
+      "Type": "Crane Truck",
+      "CapacityTons": 10,
+      "Status": "Available",
+      "WarehouseCode": "WH-DXB-01"
+    },
+    {
+      "TruckId": "trk-003",
+      "PlateNumber": "B 98765",
+      "Type": "Box Truck",
+      "CapacityTons": 8,
+      "Status": "Available",
+      "WarehouseCode": "WH-AJM-01"
+    },
+    {
+      "TruckId": "trk-004",
+      "PlateNumber": "B 987656",
+      "Type": "Box Truck",
+      "CapacityTons": 8,
+      "Status": "Available",
+      "WarehouseCode": "WH-AJM-01"
+    },
+    {
+      "TruckId": "trk-005",
+      "PlateNumber": "B 987656",
+      "Type": "Box Truck",
+      "CapacityTons": 8,
+      "Status": "Available",
+      "WarehouseCode": "WH-AJM-01"
+    },
+    {
+      "TruckId": "trk-006",
+      "PlateNumber": "B 987656",
+      "Type": "Box Truck",
+      "CapacityTons": 8,
+      "Status": "Available",
+      "WarehouseCode": "WH-AJM-01"
+    }
+  ]
+}

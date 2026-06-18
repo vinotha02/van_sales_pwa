@@ -1,0 +1,28 @@
+{
+    "expenses": [
+        {
+            "id": "EXP-001",
+            "driverId": "drv-001",
+            "date": "2026-05-05",
+            "category": "Fuel",
+            "amount": 450.00,
+            "advanceAmount": 500.00,
+            "netReimbursement": -50.00,
+            "status": "Pending",
+            "receiptUrl": "/receipts/fuel_001.jpg",
+            "gpsMismatch": false
+        },
+        {
+            "id": "EXP-002",
+            "driverId": "drv-002",
+            "date": "2026-05-05",
+            "category": "Toll (Salik)",
+            "amount": 20.00,
+            "advanceAmount": 0.00,
+            "netReimbursement": 20.00,
+            "status": "Approved",
+            "receiptUrl": "/receipts/toll_002.jpg",
+            "gpsMismatch": true
+        }
+    ]
+}

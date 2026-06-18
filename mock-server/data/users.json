@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "usr-planner-001",
+      "name": "Ahmed Al Mulla",
+      "designation": "Delivery Planner",
+      "role": "planner",
+      "department": "Logistics Planning",
+      "email": "ahmed.planner@example.com",
+      "phone": "+971-50-100-1001",
+      "status": "active"
+    },
+    {
+      "id": "usr-manager-001",
+      "name": "Fatima Al Zaabi",
+      "designation": "Logistics Manager",
+      "role": "manager",
+      "department": "Operations",
+      "email": "fatima.manager@example.com",
+      "phone": "+971-50-100-1002",
+      "approvalLimitAed": 25000,
+      "status": "active"
+    },
+    {
+      "id": "usr-warehouse-001",
+      "name": "Khalid Al Mansouri",
+      "designation": "Warehouse Supervisor",
+      "role": "warehouse",
+      "department": "Warehouse",
+      "email": "khalid.warehouse@example.com",
+      "phone": "+971-50-100-1003",
+      "status": "active"
+    },
+    {
+      "id": "drv-001",
+      "name": "Mohammed Khan",
+      "designation": "Delivery Driver",
+      "role": "driver",
+      "department": "Fleet",
+      "email": "mohammed.driver@example.com",
+      "phone": "+971-50-111-2222",
+      "assignedTruck": "D 12345",
+      "status": "active"
+    }
+  ]
+}

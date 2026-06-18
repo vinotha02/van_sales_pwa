@@ -1,0 +1,207 @@
+{
+  "plans": [
+    {
+      "id": "plan-0427-001",
+      "name": "Week 17 - Dubai Routes",
+      "week": {
+        "start": "2026-04-27",
+        "end": "2026-05-03",
+        "label": "Week 17, 2026"
+      },
+      "weekStart": "2026-04-27",
+      "weekEnd": "2026-05-03",
+      "depot": {
+        "id": "depot-dxb",
+        "name": "Dubai Main Depot",
+        "code": "DUBAI_WH",
+        "emirate": "Dubai",
+        "address": "Warehouse 12, Al Quoz Industrial Area 3, Dubai",
+        "gpsLat": 25.2048,
+        "gpsLng": 55.2708
+      },
+      "status": "pending",
+      "statusLabel": "Pending Review",
+      "statusColor": "yellow",
+      "truckCount": 2,
+      "orderCount": 2,
+      "totalDistanceKm": 142,
+      "totalFuelCost": 1240,
+      "totalWeightKg": 23600,
+      "metrics": {
+        "totalDistanceKm": 142,
+        "totalFuelCost": 1240,
+        "totalEstimatedDurationMin": 485,
+        "truckCount": 2,
+        "orderCount": 2,
+        "totalWeightKg": 23600,
+        "co2EmissionKg": 89,
+        "efficiencyScore": 94.2
+      },
+      "stockCheck": {
+        "allAvailable": true,
+        "items": [
+          {
+            "ItemCode": "ST-BM-200X100",
+            "ItemName": "Steel Beam H-200x100x5.5x8mm",
+            "requiredQty": 50,
+            "InStock": 380,
+            "WarehouseCode": "WH-DXB-01",
+            "status": "available",
+            "statusColor": "green"
+          },
+          {
+            "ItemCode": "ST-PL-10MM",
+            "ItemName": "Steel Plate Hot Rolled 10mm",
+            "requiredQty": 20,
+            "InStock": 155,
+            "WarehouseCode": "WH-DXB-01",
+            "status": "available",
+            "statusColor": "green"
+          }
+        ]
+      },
+      "routes": [
+        {
+          "id": "route-001",
+          "routeNumber": 1,
+          "truck": {
+            "id": "trk-001",
+            "plateNumber": "D 12345",
+            "type": "Flatbed",
+            "capacityTons": 15
+          },
+          "driver": {
+            "id": "drv-001",
+            "name": "Mohammed Khan",
+            "phone": "+971-50-111-2222",
+            "photo": "/drivers/mohammed.jpg"
+          },
+          "distanceKm": 78,
+          "estimatedDurationMin": 260,
+          "totalWeightKg": 15400,
+          "capacityUsedPercent": 102.67,
+          "overloaded": true,
+          "status": "assigned",
+          "stops": [
+            {
+              "stopNumber": 1,
+              "order": {
+                "id": "ord-1042",
+                "DocNum": 1042,
+                "customer": {
+                  "CardCode": "C0001",
+                  "CardName": "Al Futtaim Engineering",
+                  "contactPerson": "Mohammed Al Rashid",
+                  "Phone1": "+971-50-123-4567"
+                },
+                "deliveryAddress": {
+                  "street": "Sheikh Zayed Road",
+                  "building": "Dubai Mall Extension Site B",
+                  "city": "Dubai",
+                  "emirate": "Dubai",
+                  "gpsLat": 25.1972,
+                  "gpsLng": 55.2744
+                }
+              },
+              "items": [
+                {
+                  "ItemCode": "ST-BM-200X100",
+                  "ItemName": "Steel Beam H-200x100x5.5x8mm, 12m",
+                  "quantity": 50,
+                  "SalesUnit": "PCS",
+                  "weightKg": 10000
+                },
+                {
+                  "ItemCode": "ST-PL-10MM",
+                  "ItemName": "Steel Plate Hot Rolled 10mm x 2m x 6m",
+                  "quantity": 20,
+                  "SalesUnit": "PCS",
+                  "weightKg": 5400
+                }
+              ],
+              "estimatedArrival": "08:30",
+              "craneRequired": true,
+              "specialInstructions": "Use rear gate, crane booking #CR-2026-0042",
+              "status": "pending"
+            }
+          ]
+        }
+      ],
+      "approval": {
+        "currentLevel": 1,
+        "totalLevels": 3,
+        "chain": [
+          {
+            "level": 1,
+            "role": "Supervisor",
+            "approver": {
+              "id": "usr-004",
+              "name": "Khalid Al Mansouri",
+              "avatar": "/avatars/khalid.jpg"
+            },
+            "status": "pending",
+            "actionedAt": null,
+            "comment": null
+          },
+          {
+            "level": 2,
+            "role": "Finance Manager",
+            "approver": {
+              "id": "usr-003",
+              "name": "Fatima Al Zaabi",
+              "avatar": "/avatars/fatima.jpg"
+            },
+            "status": "waiting",
+            "actionedAt": null,
+            "comment": null
+          }
+        ]
+      },
+      "createdBy": {
+        "id": "usr-001",
+        "name": "Ahmed Al Mulla",
+        "avatar": "/avatars/ahmed.jpg"
+      },
+      "createdAt": "2026-04-26T23:40:00Z",
+      "canApprove": true,
+      "canEdit": true,
+      "canDelete": true
+    },
+    {
+      "id": "plan-0427-002",
+      "name": "Week 17 - Ajman Routes",
+      "weekStart": "2026-04-27",
+      "weekEnd": "2026-05-03",
+      "depot": {
+        "id": "depot-ajm",
+        "name": "Ajman Distribution Center",
+        "emirate": "Ajman"
+      },
+      "status": "approved",
+      "statusLabel": "Approved",
+      "statusColor": "green",
+      "truckCount": 2,
+      "orderCount": 2,
+      "totalDistanceKm": 98,
+      "totalFuelCost": 890,
+      "totalWeightKg": 13600,
+      "createdBy": {
+        "id": "usr-002",
+        "name": "Mohammed Khan",
+        "avatar": "/avatars/mohammed.jpg"
+      },
+      "createdAt": "2026-04-26T20:00:00Z",
+      "approvedBy": {
+        "id": "usr-003",
+        "name": "Fatima Al Zaabi",
+        "avatar": "/avatars/fatima.jpg"
+      },
+      "approvedAt": "2026-04-27T09:15:00Z",
+      "pickListNumbers": ["PL-2026-0891", "PL-2026-0892"],
+      "poNumber": "PO-2026-0456",
+      "canApprove": false,
+      "canEdit": false,
+      "canDelete": false
+    }
+  ]
+}
