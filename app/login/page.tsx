@@ -50,6 +50,15 @@ export default function LoginPage() {
     const [vehicle, setVehicle] = useState(VEHICLES[0]);
     const [startMileage, setStartMileage] = useState('145000');
 
+    // Add this state at the top with other states
+    const [toast, setToast] = useState<string | null>(null);
+
+    // Add this helper function
+    const showToast = (msg: string) => {
+        setToast(msg);
+        setTimeout(() => setToast(null), 3000);
+    };
+
     /* ── Login ──────────────────────────────────────────── */
     const handleLogin = (e: React.FormEvent) => {
         e.preventDefault();
@@ -61,7 +70,7 @@ export default function LoginPage() {
         );
 
         if (!user) {
-            alert('Invalid Driver ID or Password');
+            showToast('Invalid Driver ID or Password');
             return;
         }
 
@@ -275,6 +284,17 @@ export default function LoginPage() {
                     </button>
                 </form>
             </BottomSheet>
+            {/* Toast */}
+            {toast && (
+                <motion.div
+                    initial={{ opacity: 0, y: 40 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    exit={{ opacity: 0, y: 40 }}
+                    className="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 bg-red-500 text-white px-6 py-3 rounded-2xl shadow-xl font-bold text-sm flex items-center gap-2"
+                >
+                    ⚠️ {toast}
+                </motion.div>
+            )}
         </div>
     );
 }
