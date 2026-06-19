@@ -1052,6 +1052,20 @@ server.get('/api/Invoices/:id', (req, res, next) => {
   next();
 });
 
+server.post('/api/expenses', (req, res) => {
+  const expenses = collection('expenses');
+  const newExpense = {
+    id: Math.random().toString(36).slice(2, 9),
+    ...req.body,
+    date: req.body.date || new Date().toISOString().slice(0, 10),
+    status: req.body.status || 'Pending',
+    createdAt: new Date().toISOString()
+  };
+  expenses.push(newExpense);
+  writeState();
+  res.json({ success: true, data: newExpense });
+});
+
 // Use the router under /api
 server.use('/api', router);
 
