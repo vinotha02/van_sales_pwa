@@ -1,3 +1,6 @@
+console.log('=== MOCK SERVER STARTING ===');
+console.log('Node version:', process.version);
+console.log('Directory:', __dirname);
 const jsonServer = require('json-server');
 const bodyParser = require('body-parser');
 const fs = require('fs');

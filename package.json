@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "concurrently \"npm run start:mock-api\" \"next dev\"",
     "build": "next build",
-    "start": "concurrently \"npm run start:mock-api\" \"next start\"",
+    "start": "concurrently -n \"mock,next\" \"npm run start:mock-api\" \"next start\"",
     "serve": "npm run start",
     "lint": "eslint",
     "start:mock-api": "node mock-server/server.js"
