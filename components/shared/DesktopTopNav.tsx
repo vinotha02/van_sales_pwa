@@ -135,7 +135,7 @@ const DesktopTopNav = () => {
 
   return (
     <div className="app-bar hidden md:block w-full z-50">
-      {/* <ShellBar
+      <ShellBar
         ref={appBarRef}
         primaryTitle="Van Sales PW"
         showNotifications
@@ -173,7 +173,7 @@ const DesktopTopNav = () => {
         <ShellBarItem icon="date-time" text="Timezone" onClick={onTimezoneSettings} />
         <ShellBarItem icon="globe" text="Language" onClick={onLangSettings} />
         <ShellBarItem icon="palette" text="Theme" onClick={onThemeSettings} />
-      </ShellBar> */}
+      </ShellBar>
 
       <div className="w-full flex justify-center border-b border-[var(--sapPageHeader_BorderColor, #e4e4e4)] bg-[var(--sapObjectHeader_Background, #ffffff)] shadow-sm">
         <div className="w-fit">
