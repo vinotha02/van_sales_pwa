@@ -187,12 +187,12 @@ export const VehicleService = {
   },
 
   async getExpenses() {
-    const payload = await fetchVehicleAppApi<unknown>('/api/expenses');
+    const payload = await fetchVehicleAppApi<unknown>('/b1s/v1/expenses');
     return normalizeList<any>(payload, 'expenses');
   },
 
   createExpense(payload: Record<string, unknown>) {
-    return fetchVehicleAppApi<any>('/api/expenses', {
+    return fetchVehicleAppApi<any>('/b1s/v1/expenses', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload)
@@ -331,32 +331,32 @@ export const VehicleService = {
   },
 
   async getWmsPurchaseOrders() {
-    const payload = await fetchVehicleApi<unknown>('/api/wmsPurchaseOrders');
+    const payload = await fetchVehicleApi<unknown>('/b1s/v1/wmsPurchaseOrders');
     return normalizeList<any>(payload, 'wmsPurchaseOrders');
   },
 
   async getWmsInventoryTransfers() {
-    const payload = await fetchVehicleApi<unknown>('/api/wmsInventoryTransfers');
+    const payload = await fetchVehicleApi<unknown>('/b1s/v1/wmsInventoryTransfers');
     return normalizeList<any>(payload, 'wmsInventoryTransfers');
   },
 
   async getWmsCycleCounts() {
-    const payload = await fetchVehicleApi<unknown>('/api/wmsCycleCounts');
+    const payload = await fetchVehicleApi<unknown>('/b1s/v1/wmsCycleCounts');
     return normalizeList<any>(payload, 'wmsCycleCounts');
   },
 
   async getWmsBins() {
-    const payload = await fetchVehicleApi<unknown>('/api/wmsBins');
+    const payload = await fetchVehicleApi<unknown>('/b1s/v1/wmsBins');
     return normalizeList<any>(payload, 'wmsBins');
   },
 
   async getWmsBatchExpiry() {
-    const payload = await fetchVehicleApi<unknown>('/api/wmsBatchExpiry');
+    const payload = await fetchVehicleApi<unknown>('/b1s/v1/wmsBatchExpiry');
     return normalizeList<any>(payload, 'wmsBatchExpiry');
   },
 
   async getWmsThreePLBilling() {
-    const payload = await fetchVehicleApi<unknown>('/api/wmsThreePLBilling');
+    const payload = await fetchVehicleApi<unknown>('/b1s/v1/wmsThreePLBilling');
     return normalizeList<any>(payload, 'wmsThreePLBilling');
   },
 

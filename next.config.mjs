@@ -53,11 +53,11 @@ const nextConfig = {
         destination: `${API}/api/app/:path*`
       },
       {
-        source: '/api/expenses/:path*',
+        source: '/b1s/v1/expenses/:path*',
         destination: `${API}/api/expenses/:path*`
       },
       {
-        source: '/api/expenses',
+        source: '/b1s/v1/expenses',
         destination: `${API}/api/expenses`
       }
     ];
