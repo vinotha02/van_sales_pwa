@@ -1,7 +1,11 @@
 import withPWAInit from 'next-pwa';
+import { fileURLToPath } from 'url';
+import path from 'path';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const withPWA = withPWAInit({
-  dest: 'public',
+  dest: path.join(__dirname, 'public'),  // ✅ absolute path
   disable: process.env.NODE_ENV === 'development',
   runtimeCaching: [
     {
@@ -14,10 +18,10 @@ const withPWA = withPWAInit({
   ]
 });
 
-/** @type {import('next').NextConfig} */
-const API = process.env.API_BASE_URL || 'http://localhost:4000';
+const API = (process.env.API_BASE_URL && process.env.API_BASE_URL.trim() !== '') 
+  ? process.env.API_BASE_URL 
+  : 'http://localhost:4000';
 
-/** @type {import('next').NextConfig} */
 const nextConfig = {
   transpilePackages: [
     '@ui5/webcomponents-react',
@@ -25,9 +29,7 @@ const nextConfig = {
     '@ui5/webcomponents-fiori',
     '@ui5/webcomponents-icons'
   ],
-
   turbopack: {},
-
   async rewrites() {
     return [
       {

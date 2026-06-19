@@ -134,10 +134,10 @@ const DesktopTopNav = () => {
   };
 
   return (
-    <div className="app-bar w-full z-50">
-      <ShellBar
+    <div className="app-bar hidden md:block w-full z-50">
+      {/* <ShellBar
         ref={appBarRef}
-        primaryTitle="Van Sales PWA"
+        primaryTitle="Van Sales PW"
         showNotifications
         notificationsCount="3"
         onProfileClick={onProfileClicked}
@@ -173,27 +173,23 @@ const DesktopTopNav = () => {
         <ShellBarItem icon="date-time" text="Timezone" onClick={onTimezoneSettings} />
         <ShellBarItem icon="globe" text="Language" onClick={onLangSettings} />
         <ShellBarItem icon="palette" text="Theme" onClick={onThemeSettings} />
-      </ShellBar>
+      </ShellBar> */}
 
-     <div className="hidden md:flex w-full justify-center border-b border-[var(--sapPageHeader_BorderColor,#e4e4e4)] bg-[var(--sapObjectHeader_Background,#ffffff)] shadow-sm">
-  <div className="w-fit">
-    <TabContainer
-      collapsed
-      ref={tabContainerRef}
-      onTabSelect={(event: any) => onTabSelect(event, navigate)}
-    >
-      {SHELL_TABS.map((tab) => (
-        <Tab
-          key={tab.route || 'home'}
-          text={tab.label}
-          icon={tab.icon}
-          data-navigate={tab.route}
-          selected={tabName === tab.label}
-        />
-      ))}
-    </TabContainer>
-  </div>
-</div>
+      <div className="w-full flex justify-center border-b border-[var(--sapPageHeader_BorderColor, #e4e4e4)] bg-[var(--sapObjectHeader_Background, #ffffff)] shadow-sm">
+        <div className="w-fit">
+          <TabContainer collapsed ref={tabContainerRef} onTabSelect={(event: any) => onTabSelect(event, navigate)}>
+            {SHELL_TABS.map((tab) => (
+              <Tab
+                key={tab.route || 'home'}
+                text={tab.label}
+                icon={tab.icon}
+                data-navigate={tab.route}
+                selected={tabName === tab.label}
+              />
+            ))}
+          </TabContainer>
+        </div>
+      </div>
 
       <ShellPopovers
         timezonePopoverRef={timezonePopoverRef}

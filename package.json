@@ -19,7 +19,7 @@
     "concurrently": "^10.0.3",
     "express": "^4.19.2",
     "framer-motion": "^12.40.0",
-    "json-server": "^1.0.0-beta.15",
+    "json-server": "^0.17.4",
     "jspdf": "^4.2.1",
     "next": "16.2.9",
     "next-pwa": "^5.6.0",
