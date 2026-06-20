@@ -66,13 +66,10 @@ const DesktopTopNav = () => {
   const router = useRouter();
   const pathname = usePathname();
   const tabName = getShellTabName(pathname);
+  const hideTabBar = pathname.startsWith('/vansales');
 
-  // Hide on login page
-  if (pathname === '/login' || pathname === '/') return null;
+  const navigate = (path: string) => router.push(path);
 
-  const navigate = (path: string) => {
-      router.push(path);
-  };
   const {
     appBarRef,
     timezonePopoverRef,
@@ -103,10 +100,8 @@ const DesktopTopNav = () => {
 
   const suggestions = useMemo(() => {
     if (!searchTerm || searchTerm.length < 2) return [];
-    
     const results: any[] = [];
     const lowerTerm = searchTerm.toLowerCase();
-
     SHELL_TABS.forEach(tab => {
       if (tab.label.toLowerCase().includes(lowerTerm)) {
         results.push({
@@ -117,19 +112,19 @@ const DesktopTopNav = () => {
         });
       }
     });
-
     return results.slice(0, 10);
   }, [searchTerm]);
 
-  const onSearchInput = (e: any) => {
-    setSearchTerm(e.target.value);
-  };
+  // ✅ Early return AFTER all hooks
+  if (pathname === '/login' || pathname === '/') return null;
+
+  const onSearchInput = (e: any) => setSearchTerm(e.target.value);
 
   const onSuggestionSelect = (e: any) => {
     const selectedRoute = e.detail.item.getAttribute('data-id');
     if (selectedRoute !== null) {
-        navigate(`/${selectedRoute}`);
-        setSearchTerm('');
+      navigate(`/${selectedRoute}`);
+      setSearchTerm('');
     }
   };
 
@@ -175,21 +170,23 @@ const DesktopTopNav = () => {
         <ShellBarItem icon="palette" text="Theme" onClick={onThemeSettings} />
       </ShellBar>
 
-      <div className="w-full flex justify-center border-b border-[var(--sapPageHeader_BorderColor, #e4e4e4)] bg-[var(--sapObjectHeader_Background, #ffffff)] shadow-sm">
-        <div className="w-fit">
-          <TabContainer collapsed ref={tabContainerRef} onTabSelect={(event: any) => onTabSelect(event, navigate)}>
-            {SHELL_TABS.map((tab) => (
-              <Tab
-                key={tab.route || 'home'}
-                text={tab.label}
-                icon={tab.icon}
-                data-navigate={tab.route}
-                selected={tabName === tab.label}
-              />
-            ))}
-          </TabContainer>
-        </div>
-      </div>
+{!hideTabBar && (
+  <div className="w-full flex justify-center border-b border-[var(--sapPageHeader_BorderColor, #e4e4e4)] bg-[var(--sapObjectHeader_Background, #ffffff)] shadow-sm">
+    <div className="w-fit">
+      <TabContainer collapsed ref={tabContainerRef} onTabSelect={(event: any) => onTabSelect(event, navigate)}>
+        {SHELL_TABS.map((tab) => (
+          <Tab
+            key={tab.route || 'home'}
+            text={tab.label}
+            icon={tab.icon}
+            data-navigate={tab.route}
+            selected={tabName === tab.label}
+          />
+        ))}
+      </TabContainer>
+    </div>
+  </div>
+)}
 
       <ShellPopovers
         timezonePopoverRef={timezonePopoverRef}

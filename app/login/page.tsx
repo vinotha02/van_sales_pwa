@@ -14,17 +14,17 @@ import '@ui5/webcomponents-icons/dist/v5/play.js';
 
 const USERS = [
     {
-        driverId: 'DRV-1042',
+        driverId: 'John',
         password: 'admin123',
         name: 'John'
     },
     {
-        driverId: 'DRV-1043',
+        driverId: 'Peter',
         password: 'driver123',
         name: 'Peter'
     },
     {
-        driverId: 'DRV-1044',
+        driverId: 'David',
         password: 'sales123',
         name: 'David'
     }
@@ -151,7 +151,7 @@ export default function LoginPage() {
                                 <Input
                                     value={driverId}
                                     onInput={(e) => setDriverId(e.target.value)}
-                                    placeholder="e.g. DRV-1042"
+                                    placeholder="e.g. John"
                                     icon={<Icon name="SAP-icons-v5/employee" />}
                                     className="w-full h-12 rounded-xl"
                                     style={{

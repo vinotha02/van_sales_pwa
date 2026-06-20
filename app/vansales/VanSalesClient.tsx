@@ -639,7 +639,7 @@ export default function VanSalesClient() {
                         <Button
                             icon="nav-back"
                             design="Transparent"
-                            onClick={() => router.push('/driver/dashboard')}
+                            onClick={() => router.push('/dashboard')}
                         />
                     }
                     className="vansales-header no-print"
